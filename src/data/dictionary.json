@@ -1,0 +1,5134 @@
+{
+     "easy": [
+          {
+               "word": "cat",
+               "hint": "A furry pet that meows"
+          },
+          {
+               "word": "dog",
+               "hint": "A loyal pet that barks"
+          },
+          {
+               "word": "sun",
+               "hint": "The bright star in our sky"
+          },
+          {
+               "word": "map",
+               "hint": "A drawing that shows locations"
+          },
+          {
+               "word": "cup",
+               "hint": "A container for drinking"
+          },
+          {
+               "word": "hat",
+               "hint": "Something you wear on your head"
+          },
+          {
+               "word": "run",
+               "hint": "To move quickly on foot"
+          },
+          {
+               "word": "bug",
+               "hint": "A small crawling insect"
+          },
+          {
+               "word": "log",
+               "hint": "A thick piece of wood"
+          },
+          {
+               "word": "fan",
+               "hint": "A device that blows cool air"
+          },
+          {
+               "word": "jam",
+               "hint": "A sweet fruit spread for bread"
+          },
+          {
+               "word": "pen",
+               "hint": "A tool used for writing"
+          },
+          {
+               "word": "rat",
+               "hint": "A small rodent with a long tail"
+          },
+          {
+               "word": "tap",
+               "hint": "To lightly touch or hit something"
+          },
+          {
+               "word": "van",
+               "hint": "A large vehicle for carrying things"
+          },
+          {
+               "word": "wet",
+               "hint": "Covered with water or liquid"
+          },
+          {
+               "word": "zip",
+               "hint": "A fastener on clothes or bags"
+          },
+          {
+               "word": "bun",
+               "hint": "A small round bread or hair style"
+          },
+          {
+               "word": "fig",
+               "hint": "A sweet purple fruit"
+          },
+          {
+               "word": "nap",
+               "hint": "A short sleep during the day"
+          },
+          {
+               "word": "paw",
+               "hint": "The foot of an animal like a dog"
+          },
+          {
+               "word": "fog",
+               "hint": "A thick mist that is hard to see through"
+          },
+          {
+               "word": "fox",
+               "hint": "A clever wild animal with a bushy tail"
+          },
+          {
+               "word": "gem",
+               "hint": "A precious sparkling stone"
+          },
+          {
+               "word": "ice",
+               "hint": "Frozen water"
+          },
+          {
+               "word": "joy",
+               "hint": "A feeling of great happiness"
+          },
+          {
+               "word": "key",
+               "hint": "A small metal tool that opens locks"
+          },
+          {
+               "word": "leg",
+               "hint": "The limb you use to walk"
+          },
+          {
+               "word": "mud",
+               "hint": "Wet dirty earth"
+          },
+          {
+               "word": "nut",
+               "hint": "A hard shelled food that grows on trees"
+          },
+          {
+               "word": "oil",
+               "hint": "A slippery liquid used for cooking"
+          },
+          {
+               "word": "pig",
+               "hint": "A pink farm animal that oinks"
+          },
+          {
+               "word": "red",
+               "hint": "The color of fire and blood"
+          },
+          {
+               "word": "sad",
+               "hint": "Feeling unhappy or upset"
+          },
+          {
+               "word": "tin",
+               "hint": "A metal container for food"
+          },
+          {
+               "word": "win",
+               "hint": "To come first in a game or race"
+          },
+          {
+               "word": "zoo",
+               "hint": "A place where wild animals are kept"
+          },
+          {
+               "word": "arm",
+               "hint": "The limb between your shoulder and hand"
+          },
+          {
+               "word": "bed",
+               "hint": "A piece of furniture you sleep on"
+          },
+          {
+               "word": "car",
+               "hint": "A vehicle with four wheels"
+          },
+          {
+               "word": "day",
+               "hint": "The time when the sun is out"
+          },
+          {
+               "word": "ear",
+               "hint": "The body part you use to hear"
+          },
+          {
+               "word": "fly",
+               "hint": "To move through the air like a bird"
+          },
+          {
+               "word": "hot",
+               "hint": "Having a high temperature"
+          },
+          {
+               "word": "jar",
+               "hint": "A glass container with a lid"
+          },
+          {
+               "word": "kid",
+               "hint": "A young child"
+          },
+          {
+               "word": "lip",
+               "hint": "The edge of your mouth"
+          },
+          {
+               "word": "man",
+               "hint": "An adult male person"
+          },
+          {
+               "word": "net",
+               "hint": "A mesh used to catch fish or balls"
+          },
+          {
+               "word": "box",
+               "hint": "A square container for storing things"
+          },
+          {
+               "word": "big",
+               "hint": "Large in size"
+          },
+          {
+               "word": "cold",
+               "hint": "Having a low temperature"
+          },
+          {
+               "word": "ball",
+               "hint": "A round object used in sports"
+          },
+          {
+               "word": "bird",
+               "hint": "A feathered animal that can fly"
+          },
+          {
+               "word": "boat",
+               "hint": "A small vessel that travels on water"
+          },
+          {
+               "word": "book",
+               "hint": "A set of printed pages bound together"
+          },
+          {
+               "word": "cake",
+               "hint": "A sweet baked dessert"
+          },
+          {
+               "word": "coin",
+               "hint": "A small metal piece of money"
+          },
+          {
+               "word": "cook",
+               "hint": "To prepare food using heat"
+          },
+          {
+               "word": "corn",
+               "hint": "A yellow vegetable that grows on a cob"
+          },
+          {
+               "word": "door",
+               "hint": "An entrance to a room or building"
+          },
+          {
+               "word": "duck",
+               "hint": "A bird that swims and quacks"
+          },
+          {
+               "word": "farm",
+               "hint": "A place where crops and animals are raised"
+          },
+          {
+               "word": "feet",
+               "hint": "The body parts at the end of your legs"
+          },
+          {
+               "word": "fire",
+               "hint": "Burning flames that produce heat and light"
+          },
+          {
+               "word": "fish",
+               "hint": "A creature that lives and swims in water"
+          },
+          {
+               "word": "flag",
+               "hint": "A piece of cloth representing a country"
+          },
+          {
+               "word": "frog",
+               "hint": "A small green amphibian that hops"
+          },
+          {
+               "word": "gift",
+               "hint": "Something given to someone as a present"
+          },
+          {
+               "word": "girl",
+               "hint": "A young female person"
+          },
+          {
+               "word": "gold",
+               "hint": "A precious shiny yellow metal"
+          },
+          {
+               "word": "good",
+               "hint": "Having positive or desirable qualities"
+          },
+          {
+               "word": "grow",
+               "hint": "To increase in size over time"
+          },
+          {
+               "word": "hair",
+               "hint": "The strands that grow on your head"
+          },
+          {
+               "word": "hand",
+               "hint": "The body part at the end of your arm"
+          },
+          {
+               "word": "hard",
+               "hint": "Solid and firm, not soft"
+          },
+          {
+               "word": "head",
+               "hint": "The top part of your body"
+          },
+          {
+               "word": "help",
+               "hint": "To assist someone with something"
+          },
+          {
+               "word": "hill",
+               "hint": "A raised area of land smaller than a mountain"
+          },
+          {
+               "word": "home",
+               "hint": "The place where you live"
+          },
+          {
+               "word": "jump",
+               "hint": "To push yourself off the ground into the air"
+          },
+          {
+               "word": "king",
+               "hint": "A male ruler of a country"
+          },
+          {
+               "word": "lake",
+               "hint": "A large body of water surrounded by land"
+          },
+          {
+               "word": "lamp",
+               "hint": "A device that produces light"
+          },
+          {
+               "word": "land",
+               "hint": "The solid part of the Earth's surface"
+          },
+          {
+               "word": "leaf",
+               "hint": "A flat green part of a plant or tree"
+          },
+          {
+               "word": "lion",
+               "hint": "A large wild cat known as the king of the jungle"
+          },
+          {
+               "word": "lock",
+               "hint": "A device that keeps something closed"
+          },
+          {
+               "word": "love",
+               "hint": "A strong feeling of affection"
+          },
+          {
+               "word": "luck",
+               "hint": "Success brought by chance"
+          },
+          {
+               "word": "meal",
+               "hint": "Food eaten at a particular time of day"
+          },
+          {
+               "word": "milk",
+               "hint": "A white liquid produced by cows"
+          },
+          {
+               "word": "mind",
+               "hint": "The part of you that thinks and feels"
+          },
+          {
+               "word": "moon",
+               "hint": "The natural satellite that orbits Earth"
+          },
+          {
+               "word": "move",
+               "hint": "To change position or place"
+          },
+          {
+               "word": "name",
+               "hint": "A word used to identify a person or thing"
+          },
+          {
+               "word": "neck",
+               "hint": "The part of your body connecting head to shoulders"
+          },
+          {
+               "word": "news",
+               "hint": "Information about recent events"
+          },
+          {
+               "word": "nice",
+               "hint": "Pleasant or enjoyable"
+          },
+          {
+               "word": "nine",
+               "hint": "The number after eight"
+          },
+          {
+               "word": "nose",
+               "hint": "The body part used for smelling"
+          },
+          {
+               "word": "note",
+               "hint": "A short written message"
+          },
+          {
+               "word": "open",
+               "hint": "Not closed or blocked"
+          },
+          {
+               "word": "page",
+               "hint": "One side of a sheet of paper in a book"
+          },
+          {
+               "word": "park",
+               "hint": "A public outdoor area with grass and trees"
+          },
+          {
+               "word": "path",
+               "hint": "A narrow walkway or route"
+          },
+          {
+               "word": "pick",
+               "hint": "To choose or select something"
+          },
+          {
+               "word": "pink",
+               "hint": "A light red color"
+          },
+          {
+               "word": "plan",
+               "hint": "A decision about what to do in the future"
+          },
+          {
+               "word": "play",
+               "hint": "To engage in fun activities"
+          },
+          {
+               "word": "pool",
+               "hint": "A body of water for swimming"
+          },
+          {
+               "word": "pull",
+               "hint": "To move something toward you"
+          },
+          {
+               "word": "push",
+               "hint": "To move something away from you"
+          },
+          {
+               "word": "rain",
+               "hint": "Water droplets falling from clouds"
+          },
+          {
+               "word": "read",
+               "hint": "To look at and understand written words"
+          },
+          {
+               "word": "rice",
+               "hint": "A small white grain eaten as a staple food"
+          },
+          {
+               "word": "rich",
+               "hint": "Having a lot of money or resources"
+          },
+          {
+               "word": "ride",
+               "hint": "To travel on something like a bike or horse"
+          },
+          {
+               "word": "ring",
+               "hint": "A circular band worn on a finger"
+          },
+          {
+               "word": "road",
+               "hint": "A path for vehicles to travel on"
+          },
+          {
+               "word": "rock",
+               "hint": "A hard natural mineral material"
+          },
+          {
+               "word": "roof",
+               "hint": "The top covering of a building"
+          },
+          {
+               "word": "room",
+               "hint": "A space inside a building with walls"
+          },
+          {
+               "word": "rope",
+               "hint": "A thick twisted cord"
+          },
+          {
+               "word": "rose",
+               "hint": "A beautiful flower with thorns"
+          },
+          {
+               "word": "rule",
+               "hint": "A statement that tells you what to do"
+          },
+          {
+               "word": "rush",
+               "hint": "To move or act with great speed"
+          },
+          {
+               "word": "safe",
+               "hint": "Protected from danger or harm"
+          },
+          {
+               "word": "sail",
+               "hint": "To travel across water in a boat"
+          },
+          {
+               "word": "salt",
+               "hint": "A white substance used to flavor food"
+          },
+          {
+               "word": "sand",
+               "hint": "Tiny grains of rock found at beaches"
+          },
+          {
+               "word": "save",
+               "hint": "To keep something safe or store it"
+          },
+          {
+               "word": "seed",
+               "hint": "A small plant embryo that grows into a plant"
+          },
+          {
+               "word": "ship",
+               "hint": "A large vessel that travels across the sea"
+          },
+          {
+               "word": "shoe",
+               "hint": "A covering worn on your foot"
+          },
+          {
+               "word": "shop",
+               "hint": "A place where you can buy things"
+          },
+          {
+               "word": "sign",
+               "hint": "A board with information or instructions"
+          },
+          {
+               "word": "sing",
+               "hint": "To make music with your voice"
+          },
+          {
+               "word": "sink",
+               "hint": "A basin used for washing hands"
+          },
+          {
+               "word": "size",
+               "hint": "How big or small something is"
+          },
+          {
+               "word": "skin",
+               "hint": "The outer covering of your body"
+          },
+          {
+               "word": "slow",
+               "hint": "Not moving fast"
+          },
+          {
+               "word": "snow",
+               "hint": "White frozen water that falls from the sky"
+          },
+          {
+               "word": "soap",
+               "hint": "A substance used for washing and cleaning"
+          },
+          {
+               "word": "sock",
+               "hint": "A soft covering worn on the foot"
+          },
+          {
+               "word": "soft",
+               "hint": "Easy to press or not hard"
+          },
+          {
+               "word": "soil",
+               "hint": "The earth in which plants grow"
+          },
+          {
+               "word": "song",
+               "hint": "A piece of music with words"
+          },
+          {
+               "word": "soup",
+               "hint": "A liquid food made by boiling ingredients"
+          },
+          {
+               "word": "star",
+               "hint": "A glowing ball of gas in the night sky"
+          },
+          {
+               "word": "stay",
+               "hint": "To remain in a place"
+          },
+          {
+               "word": "step",
+               "hint": "A single movement of the foot"
+          },
+          {
+               "word": "stop",
+               "hint": "To cease moving or doing something"
+          },
+          {
+               "word": "swim",
+               "hint": "To move through water using your body"
+          },
+          {
+               "word": "tail",
+               "hint": "The rear part of an animal"
+          },
+          {
+               "word": "tall",
+               "hint": "Having great height"
+          },
+          {
+               "word": "talk",
+               "hint": "To speak with someone"
+          },
+          {
+               "word": "tent",
+               "hint": "A portable shelter made of fabric"
+          },
+          {
+               "word": "test",
+               "hint": "A set of questions to measure knowledge"
+          },
+          {
+               "word": "thin",
+               "hint": "Not wide or thick"
+          },
+          {
+               "word": "time",
+               "hint": "The ongoing sequence of events"
+          },
+          {
+               "word": "toad",
+               "hint": "A frog-like amphibian with rough skin"
+          },
+          {
+               "word": "tree",
+               "hint": "A tall plant with a wooden trunk and branches"
+          },
+          {
+               "word": "trip",
+               "hint": "A journey to a place"
+          },
+          {
+               "word": "true",
+               "hint": "Matching what is real or factual"
+          },
+          {
+               "word": "tune",
+               "hint": "A simple pleasant melody"
+          },
+          {
+               "word": "turn",
+               "hint": "To move in a different direction"
+          },
+          {
+               "word": "twin",
+               "hint": "One of two children born at the same time"
+          },
+          {
+               "word": "type",
+               "hint": "A kind or category of something"
+          },
+          {
+               "word": "vase",
+               "hint": "A container for holding flowers"
+          },
+          {
+               "word": "view",
+               "hint": "What you can see from a place"
+          },
+          {
+               "word": "vote",
+               "hint": "To make a choice in an election"
+          },
+          {
+               "word": "walk",
+               "hint": "To move on foot at a normal pace"
+          },
+          {
+               "word": "wall",
+               "hint": "A vertical structure that divides spaces"
+          },
+          {
+               "word": "warm",
+               "hint": "Slightly hot in a comfortable way"
+          },
+          {
+               "word": "wave",
+               "hint": "A moving ridge of water or a hand gesture"
+          },
+          {
+               "word": "week",
+               "hint": "A period of seven days"
+          },
+          {
+               "word": "wide",
+               "hint": "Having a large measurement from side to side"
+          },
+          {
+               "word": "wild",
+               "hint": "Living in nature and not tamed"
+          },
+          {
+               "word": "wind",
+               "hint": "Air moving naturally in the atmosphere"
+          },
+          {
+               "word": "wing",
+               "hint": "The body part birds use to fly"
+          },
+          {
+               "word": "wish",
+               "hint": "To want something to happen"
+          },
+          {
+               "word": "wolf",
+               "hint": "A wild animal related to dogs"
+          },
+          {
+               "word": "wood",
+               "hint": "The hard material that comes from trees"
+          },
+          {
+               "word": "word",
+               "hint": "A unit of language with meaning"
+          },
+          {
+               "word": "worm",
+               "hint": "A small creature that lives in soil"
+          },
+          {
+               "word": "yard",
+               "hint": "An outdoor area next to a house"
+          },
+          {
+               "word": "year",
+               "hint": "A period of twelve months"
+          }
+     ],
+     "medium": [
+          {
+               "word": "apple",
+               "hint": "A round fruit that can be red or green"
+          },
+          {
+               "word": "beach",
+               "hint": "A sandy area next to the ocean"
+          },
+          {
+               "word": "bread",
+               "hint": "A baked food made from flour"
+          },
+          {
+               "word": "chess",
+               "hint": "A strategy board game with kings and queens"
+          },
+          {
+               "word": "clean",
+               "hint": "Free from dirt or mess"
+          },
+          {
+               "word": "clock",
+               "hint": "A device that shows the time"
+          },
+          {
+               "word": "cloud",
+               "hint": "A white fluffy mass in the sky"
+          },
+          {
+               "word": "dance",
+               "hint": "To move your body to music"
+          },
+          {
+               "word": "dream",
+               "hint": "Images and stories in your mind while sleeping"
+          },
+          {
+               "word": "drink",
+               "hint": "To swallow a liquid"
+          },
+          {
+               "word": "earth",
+               "hint": "The planet we live on"
+          },
+          {
+               "word": "faith",
+               "hint": "A strong belief in something"
+          },
+          {
+               "word": "flame",
+               "hint": "The glowing part of a fire"
+          },
+          {
+               "word": "floor",
+               "hint": "The surface you walk on inside a building"
+          },
+          {
+               "word": "fruit",
+               "hint": "A sweet food that grows on trees or plants"
+          },
+          {
+               "word": "funny",
+               "hint": "Something that makes you laugh"
+          },
+          {
+               "word": "glass",
+               "hint": "A transparent material or a drinking container"
+          },
+          {
+               "word": "globe",
+               "hint": "A round model of the Earth"
+          },
+          {
+               "word": "glove",
+               "hint": "A covering worn on the hand"
+          },
+          {
+               "word": "grace",
+               "hint": "Elegant and smooth movement"
+          },
+          {
+               "word": "grape",
+               "hint": "A small round fruit that grows in clusters"
+          },
+          {
+               "word": "grass",
+               "hint": "The green plants covering lawns and fields"
+          },
+          {
+               "word": "great",
+               "hint": "Very large or excellent"
+          },
+          {
+               "word": "green",
+               "hint": "The color of grass and leaves"
+          },
+          {
+               "word": "happy",
+               "hint": "Feeling pleasure and contentment"
+          },
+          {
+               "word": "heart",
+               "hint": "The organ that pumps blood in your body"
+          },
+          {
+               "word": "heavy",
+               "hint": "Having a lot of weight"
+          },
+          {
+               "word": "honey",
+               "hint": "A sweet sticky food made by bees"
+          },
+          {
+               "word": "horse",
+               "hint": "A large animal people ride"
+          },
+          {
+               "word": "house",
+               "hint": "A building where people live"
+          },
+          {
+               "word": "humor",
+               "hint": "The ability to find things funny"
+          },
+          {
+               "word": "image",
+               "hint": "A picture or visual representation"
+          },
+          {
+               "word": "jewel",
+               "hint": "A precious stone used in jewelry"
+          },
+          {
+               "word": "juice",
+               "hint": "A drink made from squeezed fruit"
+          },
+          {
+               "word": "judge",
+               "hint": "A person who decides legal cases"
+          },
+          {
+               "word": "knife",
+               "hint": "A sharp tool used for cutting"
+          },
+          {
+               "word": "laugh",
+               "hint": "The sound you make when something is funny"
+          },
+          {
+               "word": "lemon",
+               "hint": "A sour yellow citrus fruit"
+          },
+          {
+               "word": "light",
+               "hint": "Brightness that lets you see things"
+          },
+          {
+               "word": "magic",
+               "hint": "Mysterious tricks that seem impossible"
+          },
+          {
+               "word": "maple",
+               "hint": "A tree known for its syrup and leaf shape"
+          },
+          {
+               "word": "match",
+               "hint": "A small stick used to start a fire"
+          },
+          {
+               "word": "money",
+               "hint": "Coins and notes used to buy things"
+          },
+          {
+               "word": "month",
+               "hint": "One of the twelve parts of a year"
+          },
+          {
+               "word": "mouse",
+               "hint": "A small rodent or a computer device"
+          },
+          {
+               "word": "music",
+               "hint": "Organized sounds that people enjoy listening to"
+          },
+          {
+               "word": "night",
+               "hint": "The dark time when the sun is down"
+          },
+          {
+               "word": "north",
+               "hint": "The direction toward the top of a map"
+          },
+          {
+               "word": "nurse",
+               "hint": "A person who cares for sick people"
+          },
+          {
+               "word": "ocean",
+               "hint": "A vast body of salt water"
+          },
+          {
+               "word": "olive",
+               "hint": "A small fruit used in cooking and for oil"
+          },
+          {
+               "word": "onion",
+               "hint": "A round vegetable that makes you cry when cut"
+          },
+          {
+               "word": "paint",
+               "hint": "A colored liquid used to decorate surfaces"
+          },
+          {
+               "word": "paper",
+               "hint": "A thin flat material used for writing"
+          },
+          {
+               "word": "party",
+               "hint": "A celebration with friends and fun"
+          },
+          {
+               "word": "peace",
+               "hint": "A state of calm without conflict"
+          },
+          {
+               "word": "pearl",
+               "hint": "A smooth gem found inside oysters"
+          },
+          {
+               "word": "phone",
+               "hint": "A device used to make calls and send messages"
+          },
+          {
+               "word": "piano",
+               "hint": "A large musical instrument with black and white keys"
+          },
+          {
+               "word": "pizza",
+               "hint": "A round Italian food with toppings and cheese"
+          },
+          {
+               "word": "plant",
+               "hint": "A living thing that grows in soil"
+          },
+          {
+               "word": "plate",
+               "hint": "A flat dish used to serve food"
+          },
+          {
+               "word": "power",
+               "hint": "The ability to do something or control others"
+          },
+          {
+               "word": "price",
+               "hint": "The amount of money something costs"
+          },
+          {
+               "word": "pride",
+               "hint": "A feeling of satisfaction in your achievements"
+          },
+          {
+               "word": "prize",
+               "hint": "A reward given for winning"
+          },
+          {
+               "word": "queen",
+               "hint": "A female ruler of a kingdom"
+          },
+          {
+               "word": "quick",
+               "hint": "Moving or doing something fast"
+          },
+          {
+               "word": "quiet",
+               "hint": "Making very little noise"
+          },
+          {
+               "word": "radio",
+               "hint": "A device that receives broadcast sound"
+          },
+          {
+               "word": "river",
+               "hint": "A large stream of water flowing to the sea"
+          },
+          {
+               "word": "robot",
+               "hint": "A machine that can perform tasks automatically"
+          },
+          {
+               "word": "round",
+               "hint": "Having a circular or curved shape"
+          },
+          {
+               "word": "royal",
+               "hint": "Related to a king or queen"
+          },
+          {
+               "word": "salad",
+               "hint": "A dish of mixed raw vegetables"
+          },
+          {
+               "word": "sauce",
+               "hint": "A liquid added to food for extra flavor"
+          },
+          {
+               "word": "scale",
+               "hint": "A device for measuring weight"
+          },
+          {
+               "word": "scene",
+               "hint": "A view or part of a story"
+          },
+          {
+               "word": "sense",
+               "hint": "One of the five abilities like sight or smell"
+          },
+          {
+               "word": "seven",
+               "hint": "The number after six"
+          },
+          {
+               "word": "shade",
+               "hint": "A cool dark area blocked from sunlight"
+          },
+          {
+               "word": "shake",
+               "hint": "To move back and forth quickly"
+          },
+          {
+               "word": "shape",
+               "hint": "The form or outline of something"
+          },
+          {
+               "word": "shark",
+               "hint": "A large fierce fish with sharp teeth"
+          },
+          {
+               "word": "sheep",
+               "hint": "A woolly farm animal"
+          },
+          {
+               "word": "shelf",
+               "hint": "A flat board fixed to a wall for storing things"
+          },
+          {
+               "word": "shine",
+               "hint": "To give off bright light"
+          },
+          {
+               "word": "shirt",
+               "hint": "A piece of clothing worn on the upper body"
+          },
+          {
+               "word": "short",
+               "hint": "Not tall or not long in length"
+          },
+          {
+               "word": "sight",
+               "hint": "The ability to see"
+          },
+          {
+               "word": "skill",
+               "hint": "The ability to do something well"
+          },
+          {
+               "word": "slide",
+               "hint": "A smooth surface you glide down"
+          },
+          {
+               "word": "smart",
+               "hint": "Having a quick and clever mind"
+          },
+          {
+               "word": "smile",
+               "hint": "A happy expression on your face"
+          },
+          {
+               "word": "snake",
+               "hint": "A long reptile with no legs"
+          },
+          {
+               "word": "solid",
+               "hint": "Firm and hard, not liquid or gas"
+          },
+          {
+               "word": "sorry",
+               "hint": "Feeling regret for something you did"
+          },
+          {
+               "word": "sound",
+               "hint": "Something you hear with your ears"
+          },
+          {
+               "word": "south",
+               "hint": "The direction toward the bottom of a map"
+          },
+          {
+               "word": "space",
+               "hint": "The vast area beyond Earth's atmosphere"
+          },
+          {
+               "word": "spark",
+               "hint": "A tiny flash of fire or light"
+          },
+          {
+               "word": "speak",
+               "hint": "To say words out loud"
+          },
+          {
+               "word": "speed",
+               "hint": "How fast something moves"
+          },
+          {
+               "word": "spoon",
+               "hint": "A utensil used for eating soup or cereal"
+          },
+          {
+               "word": "sport",
+               "hint": "A physical activity done for fun or competition"
+          },
+          {
+               "word": "staff",
+               "hint": "The people who work at a place"
+          },
+          {
+               "word": "stage",
+               "hint": "A raised platform where performers stand"
+          },
+          {
+               "word": "stand",
+               "hint": "To be upright on your feet"
+          },
+          {
+               "word": "start",
+               "hint": "To begin doing something"
+          },
+          {
+               "word": "steam",
+               "hint": "Hot water vapor rising from boiling water"
+          },
+          {
+               "word": "steel",
+               "hint": "A strong metal used in construction"
+          },
+          {
+               "word": "stick",
+               "hint": "A thin piece of wood"
+          },
+          {
+               "word": "stone",
+               "hint": "A hard solid mineral material"
+          },
+          {
+               "word": "store",
+               "hint": "A place where you buy things"
+          },
+          {
+               "word": "storm",
+               "hint": "Severe weather with wind and rain"
+          },
+          {
+               "word": "story",
+               "hint": "A tale or account of events"
+          },
+          {
+               "word": "study",
+               "hint": "To learn about a subject carefully"
+          },
+          {
+               "word": "style",
+               "hint": "A particular way of doing or designing something"
+          },
+          {
+               "word": "sugar",
+               "hint": "A sweet substance used in food and drinks"
+          },
+          {
+               "word": "sunny",
+               "hint": "Bright with lots of sunlight"
+          },
+          {
+               "word": "sweet",
+               "hint": "Having a pleasant sugary taste"
+          },
+          {
+               "word": "swift",
+               "hint": "Moving or happening very fast"
+          },
+          {
+               "word": "sword",
+               "hint": "A long sharp bladed weapon"
+          },
+          {
+               "word": "table",
+               "hint": "A piece of furniture with a flat top"
+          },
+          {
+               "word": "taste",
+               "hint": "The flavor you sense when eating"
+          },
+          {
+               "word": "teach",
+               "hint": "To help someone learn something"
+          },
+          {
+               "word": "teeth",
+               "hint": "The hard white parts in your mouth for chewing"
+          },
+          {
+               "word": "theme",
+               "hint": "The main subject or idea of something"
+          },
+          {
+               "word": "thick",
+               "hint": "Having a large distance between two sides"
+          },
+          {
+               "word": "think",
+               "hint": "To use your mind to consider something"
+          },
+          {
+               "word": "tiger",
+               "hint": "A large wild cat with orange and black stripes"
+          },
+          {
+               "word": "tired",
+               "hint": "Feeling the need to rest or sleep"
+          },
+          {
+               "word": "today",
+               "hint": "The current day"
+          },
+          {
+               "word": "tooth",
+               "hint": "One of the hard white parts in your mouth"
+          },
+          {
+               "word": "total",
+               "hint": "The complete sum of everything"
+          },
+          {
+               "word": "touch",
+               "hint": "To feel something with your hand"
+          },
+          {
+               "word": "towel",
+               "hint": "A cloth used to dry yourself"
+          },
+          {
+               "word": "tower",
+               "hint": "A tall narrow building or structure"
+          },
+          {
+               "word": "track",
+               "hint": "A path or course for running or racing"
+          },
+          {
+               "word": "trade",
+               "hint": "The buying and selling of goods"
+          },
+          {
+               "word": "trail",
+               "hint": "A path through nature"
+          },
+          {
+               "word": "train",
+               "hint": "A vehicle that runs on rails"
+          },
+          {
+               "word": "treat",
+               "hint": "A special enjoyable food or experience"
+          },
+          {
+               "word": "trend",
+               "hint": "A popular style or direction"
+          },
+          {
+               "word": "trick",
+               "hint": "A clever act meant to deceive or amuse"
+          },
+          {
+               "word": "truck",
+               "hint": "A large vehicle for carrying heavy loads"
+          },
+          {
+               "word": "trust",
+               "hint": "A firm belief in someone's reliability"
+          },
+          {
+               "word": "truth",
+               "hint": "Something that is real and factual"
+          },
+          {
+               "word": "twice",
+               "hint": "Two times"
+          },
+          {
+               "word": "twist",
+               "hint": "To turn or wind something around"
+          },
+          {
+               "word": "uncle",
+               "hint": "The brother of your parent"
+          },
+          {
+               "word": "union",
+               "hint": "A group of people joined together"
+          },
+          {
+               "word": "unity",
+               "hint": "The state of being joined as one"
+          },
+          {
+               "word": "upper",
+               "hint": "Located above or higher than something else"
+          },
+          {
+               "word": "upset",
+               "hint": "Feeling unhappy or worried"
+          },
+          {
+               "word": "urban",
+               "hint": "Relating to a city or town"
+          },
+          {
+               "word": "value",
+               "hint": "How much something is worth"
+          },
+          {
+               "word": "video",
+               "hint": "Moving images recorded and played back"
+          },
+          {
+               "word": "viral",
+               "hint": "Spreading rapidly across the internet"
+          },
+          {
+               "word": "visit",
+               "hint": "To go and spend time somewhere"
+          },
+          {
+               "word": "vital",
+               "hint": "Absolutely necessary or important"
+          },
+          {
+               "word": "vivid",
+               "hint": "Producing strong clear images in the mind"
+          },
+          {
+               "word": "voice",
+               "hint": "The sound you make when speaking or singing"
+          },
+          {
+               "word": "waste",
+               "hint": "To use more of something than needed"
+          },
+          {
+               "word": "watch",
+               "hint": "A small clock worn on the wrist"
+          },
+          {
+               "word": "water",
+               "hint": "A clear liquid essential for life"
+          },
+          {
+               "word": "weird",
+               "hint": "Strange or unusual"
+          },
+          {
+               "word": "wheat",
+               "hint": "A grain used to make bread and pasta"
+          },
+          {
+               "word": "wheel",
+               "hint": "A round object that rotates on an axle"
+          },
+          {
+               "word": "white",
+               "hint": "The color of snow or milk"
+          },
+          {
+               "word": "whole",
+               "hint": "Complete with nothing missing"
+          },
+          {
+               "word": "woman",
+               "hint": "An adult female person"
+          },
+          {
+               "word": "world",
+               "hint": "The Earth and all the people on it"
+          },
+          {
+               "word": "worry",
+               "hint": "To feel anxious about something"
+          },
+          {
+               "word": "worth",
+               "hint": "The value of something"
+          },
+          {
+               "word": "wrist",
+               "hint": "The joint connecting your hand to your arm"
+          },
+          {
+               "word": "write",
+               "hint": "To form letters or words on a surface"
+          },
+          {
+               "word": "wrong",
+               "hint": "Not correct or not right"
+          },
+          {
+               "word": "young",
+               "hint": "Being in an early stage of life"
+          },
+          {
+               "word": "youth",
+               "hint": "The period of being young"
+          },
+          {
+               "word": "zebra",
+               "hint": "A black and white striped African animal"
+          },
+          {
+               "word": "above",
+               "hint": "At a higher level or position"
+          },
+          {
+               "word": "actor",
+               "hint": "A person who performs in movies or plays"
+          },
+          {
+               "word": "adult",
+               "hint": "A fully grown person"
+          },
+          {
+               "word": "after",
+               "hint": "Following in time or place"
+          },
+          {
+               "word": "again",
+               "hint": "One more time"
+          },
+          {
+               "word": "agree",
+               "hint": "To have the same opinion as someone"
+          },
+          {
+               "word": "ahead",
+               "hint": "Further forward in position or time"
+          },
+          {
+               "word": "alarm",
+               "hint": "A device that warns you of danger or wakes you up"
+          },
+          {
+               "word": "album",
+               "hint": "A collection of songs or photos"
+          },
+          {
+               "word": "alert",
+               "hint": "Quick to notice things or a warning signal"
+          },
+          {
+               "word": "alike",
+               "hint": "Similar in appearance or nature"
+          },
+          {
+               "word": "alive",
+               "hint": "Living and not dead"
+          },
+          {
+               "word": "aloud",
+               "hint": "Using your voice so others can hear"
+          },
+          {
+               "word": "altar",
+               "hint": "A table used in religious ceremonies"
+          },
+          {
+               "word": "among",
+               "hint": "In the middle of a group"
+          },
+          {
+               "word": "anger",
+               "hint": "A strong feeling of displeasure"
+          },
+          {
+               "word": "anime",
+               "hint": "A style of Japanese animation"
+          },
+          {
+               "word": "ankle",
+               "hint": "The joint connecting your foot to your leg"
+          },
+          {
+               "word": "apart",
+               "hint": "Separated by distance"
+          },
+          {
+               "word": "argue",
+               "hint": "To disagree with someone using words"
+          },
+          {
+               "word": "arise",
+               "hint": "To get up or come into being"
+          },
+          {
+               "word": "arrow",
+               "hint": "A pointed stick shot from a bow"
+          },
+          {
+               "word": "asked",
+               "hint": "Past tense of ask"
+          },
+          {
+               "word": "atlas",
+               "hint": "A book of maps"
+          },
+          {
+               "word": "attic",
+               "hint": "A space just below the roof of a house"
+          },
+          {
+               "word": "audio",
+               "hint": "Sound that can be recorded or transmitted"
+          },
+          {
+               "word": "avoid",
+               "hint": "To stay away from something"
+          },
+          {
+               "word": "award",
+               "hint": "A prize given for achievement"
+          },
+          {
+               "word": "aware",
+               "hint": "Having knowledge of something"
+          },
+          {
+               "word": "awful",
+               "hint": "Very bad or unpleasant"
+          },
+          {
+               "word": "bagel",
+               "hint": "A round bread with a hole in the middle"
+          },
+          {
+               "word": "baker",
+               "hint": "A person who makes bread and cakes"
+          },
+          {
+               "word": "basic",
+               "hint": "Simple and fundamental"
+          },
+          {
+               "word": "basin",
+               "hint": "A round container for holding water"
+          },
+          {
+               "word": "basis",
+               "hint": "The foundation or starting point of something"
+          },
+          {
+               "word": "bears",
+               "hint": "Large furry wild animals"
+          },
+          {
+               "word": "began",
+               "hint": "Past tense of begin"
+          },
+          {
+               "word": "begin",
+               "hint": "To start doing something"
+          },
+          {
+               "word": "being",
+               "hint": "Existing or a living creature"
+          },
+          {
+               "word": "below",
+               "hint": "At a lower level or position"
+          },
+          {
+               "word": "bench",
+               "hint": "A long seat for several people"
+          },
+          {
+               "word": "berry",
+               "hint": "A small soft round fruit"
+          },
+          {
+               "word": "birth",
+               "hint": "The moment a baby comes into the world"
+          },
+          {
+               "word": "bison",
+               "hint": "A large wild ox with a shaggy mane"
+          },
+          {
+               "word": "bites",
+               "hint": "Uses teeth to cut into something"
+          },
+          {
+               "word": "black",
+               "hint": "The darkest color, like the night sky"
+          },
+          {
+               "word": "blade",
+               "hint": "The sharp cutting edge of a tool"
+          },
+          {
+               "word": "blame",
+               "hint": "To hold someone responsible for something bad"
+          },
+          {
+               "word": "bland",
+               "hint": "Lacking strong flavor or character"
+          },
+          {
+               "word": "blank",
+               "hint": "Empty with nothing written on it"
+          },
+          {
+               "word": "blast",
+               "hint": "A powerful explosion or rush of air"
+          },
+          {
+               "word": "blaze",
+               "hint": "A large bright fire"
+          },
+          {
+               "word": "bleed",
+               "hint": "To lose blood from the body"
+          },
+          {
+               "word": "blend",
+               "hint": "To mix things together smoothly"
+          },
+          {
+               "word": "bless",
+               "hint": "To ask for divine favor on someone"
+          },
+          {
+               "word": "blind",
+               "hint": "Unable to see"
+          },
+          {
+               "word": "block",
+               "hint": "A solid piece of material or to stop something"
+          },
+          {
+               "word": "blood",
+               "hint": "The red liquid that flows through your body"
+          },
+          {
+               "word": "bloom",
+               "hint": "When a flower opens up"
+          },
+          {
+               "word": "blown",
+               "hint": "Moved by the wind"
+          },
+          {
+               "word": "blues",
+               "hint": "A style of music or feeling sad"
+          },
+          {
+               "word": "blunt",
+               "hint": "Not sharp or speaking directly"
+          },
+          {
+               "word": "board",
+               "hint": "A flat piece of wood or to get on a vehicle"
+          },
+          {
+               "word": "bonus",
+               "hint": "An extra reward on top of the usual amount"
+          },
+          {
+               "word": "boost",
+               "hint": "To help something increase or improve"
+          },
+          {
+               "word": "booth",
+               "hint": "A small enclosed area or stall"
+          },
+          {
+               "word": "bound",
+               "hint": "Tied up or heading toward a destination"
+          },
+          {
+               "word": "braid",
+               "hint": "Hair twisted together in a pattern"
+          },
+          {
+               "word": "brake",
+               "hint": "A device used to slow down a vehicle"
+          },
+          {
+               "word": "brand",
+               "hint": "A name or logo that represents a company"
+          },
+          {
+               "word": "brave",
+               "hint": "Willing to face danger without fear"
+          },
+          {
+               "word": "break",
+               "hint": "To separate into pieces or take a rest"
+          },
+          {
+               "word": "bride",
+               "hint": "A woman on her wedding day"
+          },
+          {
+               "word": "brief",
+               "hint": "Short in duration or length"
+          },
+          {
+               "word": "bring",
+               "hint": "To carry something to a place"
+          },
+          {
+               "word": "brisk",
+               "hint": "Active and energetic"
+          },
+          {
+               "word": "broke",
+               "hint": "Past tense of break or having no money"
+          },
+          {
+               "word": "brook",
+               "hint": "A small stream of water"
+          },
+          {
+               "word": "brown",
+               "hint": "The color of wood or chocolate"
+          },
+          {
+               "word": "brush",
+               "hint": "A tool with bristles used for cleaning or painting"
+          },
+          {
+               "word": "budge",
+               "hint": "To move slightly from a position"
+          },
+          {
+               "word": "build",
+               "hint": "To construct something"
+          },
+          {
+               "word": "built",
+               "hint": "Past tense of build"
+          },
+          {
+               "word": "bunch",
+               "hint": "A group of things fastened together"
+          },
+          {
+               "word": "burst",
+               "hint": "To break open suddenly"
+          },
+          {
+               "word": "buyer",
+               "hint": "A person who purchases something"
+          },
+          {
+               "word": "cabin",
+               "hint": "A small wooden house in the countryside"
+          },
+          {
+               "word": "camel",
+               "hint": "A desert animal with one or two humps"
+          },
+          {
+               "word": "candy",
+               "hint": "A sweet sugary treat"
+          },
+          {
+               "word": "carry",
+               "hint": "To hold and transport something"
+          },
+          {
+               "word": "catch",
+               "hint": "To grab something moving through the air"
+          },
+          {
+               "word": "cause",
+               "hint": "The reason something happens"
+          },
+          {
+               "word": "caves",
+               "hint": "Natural underground chambers in rock"
+          },
+          {
+               "word": "cedar",
+               "hint": "A type of tall evergreen tree"
+          },
+          {
+               "word": "chain",
+               "hint": "A series of metal rings linked together"
+          },
+          {
+               "word": "chair",
+               "hint": "A piece of furniture you sit on"
+          },
+          {
+               "word": "chalk",
+               "hint": "A white stick used for writing on boards"
+          },
+          {
+               "word": "charm",
+               "hint": "A quality that attracts or delights people"
+          },
+          {
+               "word": "chase",
+               "hint": "To run after someone or something"
+          },
+          {
+               "word": "cheap",
+               "hint": "Low in price"
+          },
+          {
+               "word": "check",
+               "hint": "To examine or verify something"
+          },
+          {
+               "word": "cheek",
+               "hint": "The side of your face below the eye"
+          },
+          {
+               "word": "cheer",
+               "hint": "A shout of joy or encouragement"
+          },
+          {
+               "word": "chewy",
+               "hint": "Requiring a lot of chewing to eat"
+          },
+          {
+               "word": "chief",
+               "hint": "The leader of a group or organization"
+          },
+          {
+               "word": "child",
+               "hint": "A young human being"
+          },
+          {
+               "word": "chile",
+               "hint": "A hot spicy pepper"
+          },
+          {
+               "word": "chili",
+               "hint": "A spicy stew made with peppers and meat"
+          },
+          {
+               "word": "chill",
+               "hint": "A cool feeling or to relax"
+          },
+          {
+               "word": "chimp",
+               "hint": "A small intelligent ape"
+          },
+          {
+               "word": "chips",
+               "hint": "Thin crispy fried potato slices"
+          },
+          {
+               "word": "chore",
+               "hint": "A routine household task"
+          },
+          {
+               "word": "chunk",
+               "hint": "A thick solid piece of something"
+          },
+          {
+               "word": "civic",
+               "hint": "Relating to a city or its citizens"
+          },
+          {
+               "word": "civil",
+               "hint": "Relating to ordinary citizens"
+          },
+          {
+               "word": "clamp",
+               "hint": "A device that holds things tightly together"
+          },
+          {
+               "word": "clang",
+               "hint": "A loud ringing metallic sound"
+          },
+          {
+               "word": "clash",
+               "hint": "A loud noise or a conflict between things"
+          },
+          {
+               "word": "clasp",
+               "hint": "A fastening device or to hold tightly"
+          },
+          {
+               "word": "class",
+               "hint": "A group of students or a category"
+          },
+          {
+               "word": "claw",
+               "hint": "A sharp curved nail on an animal"
+          },
+          {
+               "word": "click",
+               "hint": "A short sharp sound or pressing a button"
+          },
+          {
+               "word": "cliff",
+               "hint": "A steep rock face at the edge of the sea"
+          },
+          {
+               "word": "climb",
+               "hint": "To go up using hands and feet"
+          },
+          {
+               "word": "cling",
+               "hint": "To hold tightly onto something"
+          },
+          {
+               "word": "clip",
+               "hint": "A small device for holding things together"
+          },
+          {
+               "word": "cloak",
+               "hint": "A long loose outer garment"
+          },
+          {
+               "word": "clone",
+               "hint": "An exact copy of something living"
+          },
+          {
+               "word": "close",
+               "hint": "Near in distance or to shut something"
+          },
+          {
+               "word": "cloth",
+               "hint": "Woven fabric used to make clothing"
+          },
+          {
+               "word": "clown",
+               "hint": "A funny performer who wears a costume"
+          },
+          {
+               "word": "coach",
+               "hint": "A trainer who helps people improve"
+          },
+          {
+               "word": "coast",
+               "hint": "The area where land meets the sea"
+          },
+          {
+               "word": "cobra",
+               "hint": "A venomous snake that spreads its neck"
+          },
+          {
+               "word": "cocoa",
+               "hint": "A powder made from cacao used to make chocolate"
+          },
+          {
+               "word": "comet",
+               "hint": "A bright object with a tail that moves through space"
+          },
+          {
+               "word": "comic",
+               "hint": "A funny story told with pictures"
+          },
+          {
+               "word": "coral",
+               "hint": "A colorful ocean structure made by tiny animals"
+          },
+          {
+               "word": "couch",
+               "hint": "A comfortable piece of furniture to sit on"
+          },
+          {
+               "word": "cough",
+               "hint": "To expel air from the lungs with a sharp sound"
+          },
+          {
+               "word": "count",
+               "hint": "To add up numbers one by one"
+          },
+          {
+               "word": "court",
+               "hint": "A place for playing sports or a legal room"
+          },
+          {
+               "word": "cover",
+               "hint": "To place something over another thing"
+          },
+          {
+               "word": "cozy",
+               "hint": "Warm and comfortable"
+          },
+          {
+               "word": "crack",
+               "hint": "A narrow opening or to break something"
+          },
+          {
+               "word": "craft",
+               "hint": "A skill of making things by hand"
+          },
+          {
+               "word": "crane",
+               "hint": "A tall machine for lifting heavy objects"
+          },
+          {
+               "word": "crash",
+               "hint": "A violent collision or loud noise"
+          },
+          {
+               "word": "crazy",
+               "hint": "Very silly or out of the ordinary"
+          },
+          {
+               "word": "cream",
+               "hint": "A thick white liquid from milk"
+          },
+          {
+               "word": "creek",
+               "hint": "A small narrow river"
+          },
+          {
+               "word": "crisp",
+               "hint": "Firm and fresh or a thin fried chip"
+          },
+          {
+               "word": "cross",
+               "hint": "To go from one side to another"
+          },
+          {
+               "word": "crowd",
+               "hint": "A large group of people together"
+          },
+          {
+               "word": "crown",
+               "hint": "A circular ornament worn by royalty"
+          },
+          {
+               "word": "crude",
+               "hint": "In a raw unrefined state"
+          },
+          {
+               "word": "cruel",
+               "hint": "Causing pain or suffering on purpose"
+          },
+          {
+               "word": "crush",
+               "hint": "To press hard enough to break or a secret admiration"
+          },
+          {
+               "word": "crust",
+               "hint": "The hard outer layer of bread or the earth"
+          },
+          {
+               "word": "curve",
+               "hint": "A smoothly bending line"
+          },
+          {
+               "word": "cycle",
+               "hint": "A series of events that repeat"
+          }
+     ],
+     "hard": [
+          {
+               "word": "ability",
+               "hint": "The power or skill to do something"
+          },
+          {
+               "word": "academy",
+               "hint": "A school or place of learning"
+          },
+          {
+               "word": "account",
+               "hint": "A record of money or a personal profile"
+          },
+          {
+               "word": "achieve",
+               "hint": "To successfully reach a goal"
+          },
+          {
+               "word": "advance",
+               "hint": "To move forward or make progress"
+          },
+          {
+               "word": "against",
+               "hint": "In opposition to something"
+          },
+          {
+               "word": "airport",
+               "hint": "A place where planes take off and land"
+          },
+          {
+               "word": "amazing",
+               "hint": "Causing great surprise or wonder"
+          },
+          {
+               "word": "ancient",
+               "hint": "Belonging to a very long time ago"
+          },
+          {
+               "word": "anxiety",
+               "hint": "A feeling of worry and nervousness"
+          },
+          {
+               "word": "arrange",
+               "hint": "To put things in a particular order"
+          },
+          {
+               "word": "athlete",
+               "hint": "A person who is good at sports"
+          },
+          {
+               "word": "attract",
+               "hint": "To draw someone or something closer"
+          },
+          {
+               "word": "average",
+               "hint": "The typical or middle amount"
+          },
+          {
+               "word": "balance",
+               "hint": "An even distribution of weight"
+          },
+          {
+               "word": "battery",
+               "hint": "A device that stores electrical energy"
+          },
+          {
+               "word": "believe",
+               "hint": "To accept something as true"
+          },
+          {
+               "word": "between",
+               "hint": "In the space separating two things"
+          },
+          {
+               "word": "blanket",
+               "hint": "A warm covering used on a bed"
+          },
+          {
+               "word": "blossom",
+               "hint": "A flower on a plant or tree"
+          },
+          {
+               "word": "breathe",
+               "hint": "To take air in and out of your lungs"
+          },
+          {
+               "word": "brother",
+               "hint": "A male sibling"
+          },
+          {
+               "word": "cabinet",
+               "hint": "A cupboard for storing things"
+          },
+          {
+               "word": "captain",
+               "hint": "The leader of a ship or team"
+          },
+          {
+               "word": "capture",
+               "hint": "To catch and hold something"
+          },
+          {
+               "word": "careful",
+               "hint": "Paying close attention to avoid mistakes"
+          },
+          {
+               "word": "cartoon",
+               "hint": "An animated drawing or TV show"
+          },
+          {
+               "word": "channel",
+               "hint": "A TV station or a waterway"
+          },
+          {
+               "word": "chapter",
+               "hint": "A section of a book"
+          },
+          {
+               "word": "chicken",
+               "hint": "A common farm bird raised for eggs and meat"
+          },
+          {
+               "word": "citizen",
+               "hint": "A person who belongs to a country"
+          },
+          {
+               "word": "classic",
+               "hint": "Something of lasting quality and recognized value"
+          },
+          {
+               "word": "climate",
+               "hint": "The typical weather of a region"
+          },
+          {
+               "word": "collect",
+               "hint": "To gather things together"
+          },
+          {
+               "word": "college",
+               "hint": "A place for higher education after school"
+          },
+          {
+               "word": "comfort",
+               "hint": "A feeling of ease and relaxation"
+          },
+          {
+               "word": "command",
+               "hint": "An instruction given with authority"
+          },
+          {
+               "word": "company",
+               "hint": "A business or group of people"
+          },
+          {
+               "word": "compare",
+               "hint": "To look at similarities and differences"
+          },
+          {
+               "word": "compete",
+               "hint": "To try to win against others"
+          },
+          {
+               "word": "concern",
+               "hint": "A feeling of worry about something"
+          },
+          {
+               "word": "connect",
+               "hint": "To join two things together"
+          },
+          {
+               "word": "control",
+               "hint": "To have power over something"
+          },
+          {
+               "word": "correct",
+               "hint": "Free from mistakes or errors"
+          },
+          {
+               "word": "country",
+               "hint": "A nation with its own government"
+          },
+          {
+               "word": "courage",
+               "hint": "The ability to do something scary"
+          },
+          {
+               "word": "curious",
+               "hint": "Eager to know or learn something"
+          },
+          {
+               "word": "current",
+               "hint": "Happening or existing right now"
+          },
+          {
+               "word": "dancing",
+               "hint": "Moving your body rhythmically to music"
+          },
+          {
+               "word": "defense",
+               "hint": "Protection from attack or harm"
+          },
+          {
+               "word": "deliver",
+               "hint": "To bring something to a destination"
+          },
+          {
+               "word": "deserve",
+               "hint": "To be worthy of something"
+          },
+          {
+               "word": "develop",
+               "hint": "To grow or become more advanced"
+          },
+          {
+               "word": "digital",
+               "hint": "Relating to computers and electronic technology"
+          },
+          {
+               "word": "discuss",
+               "hint": "To talk about something with others"
+          },
+          {
+               "word": "display",
+               "hint": "To show something publicly"
+          },
+          {
+               "word": "dolphin",
+               "hint": "A smart sea mammal known for jumping"
+          },
+          {
+               "word": "dynamic",
+               "hint": "Full of energy and constantly changing"
+          },
+          {
+               "word": "element",
+               "hint": "A basic part of something"
+          },
+          {
+               "word": "excited",
+               "hint": "Feeling very enthusiastic and eager"
+          },
+          {
+               "word": "explain",
+               "hint": "To make something clear and understandable"
+          },
+          {
+               "word": "explore",
+               "hint": "To travel and discover new places"
+          },
+          {
+               "word": "express",
+               "hint": "To show or communicate your feelings"
+          },
+          {
+               "word": "factory",
+               "hint": "A building where goods are manufactured"
+          },
+          {
+               "word": "failure",
+               "hint": "Not succeeding at something"
+          },
+          {
+               "word": "fantasy",
+               "hint": "An imaginary world or wishful thinking"
+          },
+          {
+               "word": "fashion",
+               "hint": "A popular style of clothing"
+          },
+          {
+               "word": "feeling",
+               "hint": "An emotional state or sensation"
+          },
+          {
+               "word": "fiction",
+               "hint": "Stories that are not based on real events"
+          },
+          {
+               "word": "fitness",
+               "hint": "Being in good physical health"
+          },
+          {
+               "word": "foreign",
+               "hint": "From or relating to another country"
+          },
+          {
+               "word": "forward",
+               "hint": "Moving in the direction you are facing"
+          },
+          {
+               "word": "freedom",
+               "hint": "The right to act and speak without restriction"
+          },
+          {
+               "word": "gateway",
+               "hint": "An entrance or opening to something"
+          },
+          {
+               "word": "general",
+               "hint": "Relating to the whole rather than details"
+          },
+          {
+               "word": "gravity",
+               "hint": "The force that pulls objects toward Earth"
+          },
+          {
+               "word": "grocery",
+               "hint": "A store that sells food and household items"
+          },
+          {
+               "word": "habitat",
+               "hint": "The natural home of an animal or plant"
+          },
+          {
+               "word": "harmony",
+               "hint": "A pleasing combination of different elements"
+          },
+          {
+               "word": "healthy",
+               "hint": "Being in good physical and mental condition"
+          },
+          {
+               "word": "history",
+               "hint": "The study of past events"
+          },
+          {
+               "word": "holiday",
+               "hint": "A day of celebration or time off work"
+          },
+          {
+               "word": "hundred",
+               "hint": "The number equal to ten times ten"
+          },
+          {
+               "word": "imagine",
+               "hint": "To form a picture of something in your mind"
+          },
+          {
+               "word": "improve",
+               "hint": "To make something better"
+          },
+          {
+               "word": "include",
+               "hint": "To have something as part of a whole"
+          },
+          {
+               "word": "husband",
+               "hint": "A married man"
+          },
+          {
+               "word": "journey",
+               "hint": "A long trip from one place to another"
+          },
+          {
+               "word": "justice",
+               "hint": "Fair treatment based on the law"
+          },
+          {
+               "word": "kitchen",
+               "hint": "The room where food is prepared"
+          },
+          {
+               "word": "kingdom",
+               "hint": "A country ruled by a king or queen"
+          },
+          {
+               "word": "lantern",
+               "hint": "A portable light in a protective case"
+          },
+          {
+               "word": "machine",
+               "hint": "A device with moving parts that does work"
+          },
+          {
+               "word": "manager",
+               "hint": "A person who is in charge of others"
+          },
+          {
+               "word": "maximum",
+               "hint": "The greatest possible amount"
+          },
+          {
+               "word": "measure",
+               "hint": "To find the size or amount of something"
+          },
+          {
+               "word": "meeting",
+               "hint": "A gathering of people to discuss something"
+          },
+          {
+               "word": "mention",
+               "hint": "To briefly refer to something"
+          },
+          {
+               "word": "minimum",
+               "hint": "The smallest possible amount"
+          },
+          {
+               "word": "mission",
+               "hint": "An important task or assignment"
+          },
+          {
+               "word": "mixture",
+               "hint": "A combination of different things"
+          },
+          {
+               "word": "monitor",
+               "hint": "A screen for a computer or to watch something"
+          },
+          {
+               "word": "morning",
+               "hint": "The early part of the day"
+          },
+          {
+               "word": "mystery",
+               "hint": "Something that is unknown or hard to explain"
+          },
+          {
+               "word": "network",
+               "hint": "A system of connected things or people"
+          },
+          {
+               "word": "nothing",
+               "hint": "Not anything at all"
+          },
+          {
+               "word": "obvious",
+               "hint": "Easy to see or understand"
+          },
+          {
+               "word": "opinion",
+               "hint": "A personal view or belief"
+          },
+          {
+               "word": "package",
+               "hint": "A wrapped parcel or bundle"
+          },
+          {
+               "word": "pattern",
+               "hint": "A repeated design or sequence"
+          },
+          {
+               "word": "penguin",
+               "hint": "A black and white bird that cannot fly"
+          },
+          {
+               "word": "percent",
+               "hint": "A part out of a hundred"
+          },
+          {
+               "word": "perform",
+               "hint": "To carry out an action or entertain an audience"
+          },
+          {
+               "word": "picture",
+               "hint": "A drawing or photograph"
+          },
+          {
+               "word": "popular",
+               "hint": "Liked or enjoyed by many people"
+          },
+          {
+               "word": "problem",
+               "hint": "A difficult situation that needs solving"
+          },
+          {
+               "word": "process",
+               "hint": "A series of steps to achieve something"
+          },
+          {
+               "word": "product",
+               "hint": "Something that is made or manufactured"
+          },
+          {
+               "word": "project",
+               "hint": "A planned piece of work with a goal"
+          },
+          {
+               "word": "protect",
+               "hint": "To keep something safe from harm"
+          },
+          {
+               "word": "provide",
+               "hint": "To give something that is needed"
+          },
+          {
+               "word": "purpose",
+               "hint": "The reason something exists or is done"
+          },
+          {
+               "word": "quality",
+               "hint": "How good or bad something is"
+          },
+          {
+               "word": "quickly",
+               "hint": "At a fast speed"
+          },
+          {
+               "word": "reality",
+               "hint": "The world as it actually is"
+          },
+          {
+               "word": "receive",
+               "hint": "To get something given to you"
+          },
+          {
+               "word": "replace",
+               "hint": "To put something new in place of something old"
+          },
+          {
+               "word": "request",
+               "hint": "To politely ask for something"
+          },
+          {
+               "word": "respect",
+               "hint": "To treat someone with care and consideration"
+          },
+          {
+               "word": "results",
+               "hint": "The outcome of something"
+          },
+          {
+               "word": "running",
+               "hint": "Moving fast on foot"
+          },
+          {
+               "word": "science",
+               "hint": "The study of the natural world"
+          },
+          {
+               "word": "section",
+               "hint": "A part of something larger"
+          },
+          {
+               "word": "serious",
+               "hint": "Important or not joking"
+          },
+          {
+               "word": "service",
+               "hint": "Work done for others"
+          },
+          {
+               "word": "setting",
+               "hint": "The place and time where something happens"
+          },
+          {
+               "word": "shelter",
+               "hint": "A place that provides protection"
+          },
+          {
+               "word": "silence",
+               "hint": "Complete absence of sound"
+          },
+          {
+               "word": "similar",
+               "hint": "Almost the same but not exactly"
+          },
+          {
+               "word": "someone",
+               "hint": "An unknown or unnamed person"
+          },
+          {
+               "word": "speaker",
+               "hint": "A person who talks or a device for sound"
+          },
+          {
+               "word": "special",
+               "hint": "Better or different from the usual"
+          },
+          {
+               "word": "stadium",
+               "hint": "A large venue for sports and concerts"
+          },
+          {
+               "word": "station",
+               "hint": "A place where trains or buses stop"
+          },
+          {
+               "word": "stomach",
+               "hint": "The organ in your body that digests food"
+          },
+          {
+               "word": "student",
+               "hint": "A person who is studying at school"
+          },
+          {
+               "word": "subject",
+               "hint": "A topic being studied or discussed"
+          },
+          {
+               "word": "succeed",
+               "hint": "To achieve what you set out to do"
+          },
+          {
+               "word": "success",
+               "hint": "The achievement of a goal"
+          },
+          {
+               "word": "suggest",
+               "hint": "To put forward an idea for consideration"
+          },
+          {
+               "word": "support",
+               "hint": "To help or encourage someone"
+          },
+          {
+               "word": "surface",
+               "hint": "The outside layer of something"
+          },
+          {
+               "word": "sustain",
+               "hint": "To keep something going over time"
+          },
+          {
+               "word": "teacher",
+               "hint": "A person who helps others learn"
+          },
+          {
+               "word": "thunder",
+               "hint": "The loud sound heard during a storm"
+          },
+          {
+               "word": "tonight",
+               "hint": "The evening of today"
+          },
+          {
+               "word": "tourism",
+               "hint": "Travelling to places for enjoyment"
+          },
+          {
+               "word": "traffic",
+               "hint": "Vehicles moving on roads"
+          },
+          {
+               "word": "triumph",
+               "hint": "A great victory or achievement"
+          },
+          {
+               "word": "typical",
+               "hint": "Normal or expected"
+          },
+          {
+               "word": "uniform",
+               "hint": "A set of clothes worn by members of a group"
+          },
+          {
+               "word": "upgrade",
+               "hint": "To improve to a better version"
+          },
+          {
+               "word": "vehicle",
+               "hint": "A machine used for transportation"
+          },
+          {
+               "word": "village",
+               "hint": "A small community in the countryside"
+          },
+          {
+               "word": "vintage",
+               "hint": "Something from the past that is high quality"
+          },
+          {
+               "word": "vitamin",
+               "hint": "A nutrient essential for health"
+          },
+          {
+               "word": "warrior",
+               "hint": "A brave and experienced fighter"
+          },
+          {
+               "word": "weather",
+               "hint": "The state of the atmosphere outside"
+          },
+          {
+               "word": "website",
+               "hint": "A collection of pages on the internet"
+          },
+          {
+               "word": "willing",
+               "hint": "Ready and happy to do something"
+          },
+          {
+               "word": "writing",
+               "hint": "The activity of putting words on paper"
+          },
+          {
+               "word": "younger",
+               "hint": "Being less old than someone or something else"
+          },
+          {
+               "word": "alchemy",
+               "hint": "A medieval practice of turning metals into gold"
+          },
+          {
+               "word": "antenna",
+               "hint": "A device for receiving radio or TV signals"
+          },
+          {
+               "word": "approve",
+               "hint": "To officially agree to something"
+          },
+          {
+               "word": "archway",
+               "hint": "A curved opening in a wall"
+          },
+          {
+               "word": "arrival",
+               "hint": "The act of reaching a destination"
+          },
+          {
+               "word": "artwork",
+               "hint": "Creative work made by an artist"
+          },
+          {
+               "word": "aspirin",
+               "hint": "A common medicine used to reduce pain"
+          },
+          {
+               "word": "attempt",
+               "hint": "To try to do something"
+          },
+          {
+               "word": "auction",
+               "hint": "A sale where items go to the highest bidder"
+          },
+          {
+               "word": "awesome",
+               "hint": "Extremely impressive or excellent"
+          },
+          {
+               "word": "awkward",
+               "hint": "Causing difficulty or embarrassment"
+          },
+          {
+               "word": "backpack",
+               "hint": "A bag carried on your back"
+          },
+          {
+               "word": "bicycle",
+               "hint": "A two wheeled vehicle you pedal"
+          },
+          {
+               "word": "blanket",
+               "hint": "A soft covering used to keep warm"
+          },
+          {
+               "word": "blogger",
+               "hint": "A person who writes online articles"
+          },
+          {
+               "word": "booster",
+               "hint": "Something that increases effectiveness"
+          },
+          {
+               "word": "bouncer",
+               "hint": "A person who controls entry to a venue"
+          },
+          {
+               "word": "bracket",
+               "hint": "A support attached to a wall or a symbol in writing"
+          },
+          {
+               "word": "calming",
+               "hint": "Making someone feel less anxious"
+          },
+          {
+               "word": "camping",
+               "hint": "Staying outdoors in a tent"
+          },
+          {
+               "word": "catalog",
+               "hint": "A list of items available to buy"
+          },
+          {
+               "word": "ceiling",
+               "hint": "The upper surface of a room"
+          },
+          {
+               "word": "certain",
+               "hint": "Completely sure about something"
+          },
+          {
+               "word": "changed",
+               "hint": "Made different from before"
+          },
+          {
+               "word": "chatbot",
+               "hint": "A program that simulates conversation"
+          },
+          {
+               "word": "cheerful",
+               "hint": "Noticeably happy and optimistic"
+          },
+          {
+               "word": "climate",
+               "hint": "The long term weather patterns of an area"
+          },
+          {
+               "word": "coconut",
+               "hint": "A large tropical fruit with white flesh"
+          },
+          {
+               "word": "compose",
+               "hint": "To write music or put something together"
+          },
+          {
+               "word": "concert",
+               "hint": "A live musical performance"
+          },
+          {
+               "word": "confuse",
+               "hint": "To make someone unable to understand"
+          },
+          {
+               "word": "contest",
+               "hint": "A competition to find the best"
+          },
+          {
+               "word": "costume",
+               "hint": "A set of clothes worn for a role or celebration"
+          },
+          {
+               "word": "council",
+               "hint": "A group of people who manage an area"
+          },
+          {
+               "word": "courier",
+               "hint": "A person who delivers packages"
+          },
+          {
+               "word": "covered",
+               "hint": "Having something placed on top"
+          },
+          {
+               "word": "cowgirl",
+               "hint": "A woman who herds cattle on horseback"
+          },
+          {
+               "word": "creamer",
+               "hint": "A substance added to coffee for creaminess"
+          },
+          {
+               "word": "creator",
+               "hint": "Someone who makes or produces something"
+          },
+          {
+               "word": "cricket",
+               "hint": "A bat and ball sport or a chirping insect"
+          },
+          {
+               "word": "crystal",
+               "hint": "A clear solid with a regular geometric shape"
+          },
+          {
+               "word": "culture",
+               "hint": "The ideas and customs of a group of people"
+          },
+          {
+               "word": "curtain",
+               "hint": "A piece of cloth hung to block light"
+          },
+          {
+               "word": "dealing",
+               "hint": "Handling or doing business with something"
+          },
+          {
+               "word": "decimal",
+               "hint": "A number expressed in tenths"
+          },
+          {
+               "word": "declare",
+               "hint": "To state something officially"
+          },
+          {
+               "word": "decline",
+               "hint": "To become smaller or to say no"
+          },
+          {
+               "word": "devoted",
+               "hint": "Very loyal and loving"
+          },
+          {
+               "word": "diamond",
+               "hint": "The hardest precious gem"
+          },
+          {
+               "word": "digital",
+               "hint": "Using computer technology"
+          },
+          {
+               "word": "dinning",
+               "hint": "Eating a meal"
+          },
+          {
+               "word": "disable",
+               "hint": "To make something unable to function"
+          },
+          {
+               "word": "distant",
+               "hint": "Far away in space or time"
+          },
+          {
+               "word": "diverse",
+               "hint": "Showing a great deal of variety"
+          },
+          {
+               "word": "divided",
+               "hint": "Separated into parts"
+          },
+          {
+               "word": "donated",
+               "hint": "Given to a cause or charity"
+          },
+          {
+               "word": "drawing",
+               "hint": "Creating a picture with a pen or pencil"
+          },
+          {
+               "word": "dynasty",
+               "hint": "A line of rulers from the same family"
+          },
+          {
+               "word": "economy",
+               "hint": "The system of money and trade in a country"
+          },
+          {
+               "word": "eclipse",
+               "hint": "When one planet blocks light from another"
+          },
+          {
+               "word": "edition",
+               "hint": "A version of a book or newspaper"
+          },
+          {
+               "word": "emotion",
+               "hint": "A strong feeling like love or anger"
+          },
+          {
+               "word": "emperor",
+               "hint": "The ruler of an empire"
+          },
+          {
+               "word": "endless",
+               "hint": "Having no end or limit"
+          },
+          {
+               "word": "enforce",
+               "hint": "To make sure rules are followed"
+          },
+          {
+               "word": "engaged",
+               "hint": "Involved in something or promised to marry"
+          },
+          {
+               "word": "enhance",
+               "hint": "To improve the quality of something"
+          },
+          {
+               "word": "episode",
+               "hint": "One part of a TV series"
+          },
+          {
+               "word": "essence",
+               "hint": "The most important quality of something"
+          },
+          {
+               "word": "eternal",
+               "hint": "Lasting forever without end"
+          },
+          {
+               "word": "exactly",
+               "hint": "With complete accuracy"
+          },
+          {
+               "word": "examine",
+               "hint": "To look at something carefully"
+          },
+          {
+               "word": "example",
+               "hint": "A thing that illustrates a rule or idea"
+          },
+          {
+               "word": "exhaust",
+               "hint": "To use up completely or fumes from an engine"
+          },
+          {
+               "word": "exhibit",
+               "hint": "To display something publicly"
+          },
+          {
+               "word": "extreme",
+               "hint": "Very great or intense"
+          },
+          {
+               "word": "feather",
+               "hint": "A light flat structure that covers a bird"
+          },
+          {
+               "word": "figment",
+               "hint": "Something that exists only in the imagination"
+          },
+          {
+               "word": "fingers",
+               "hint": "The long thin parts at the end of your hand"
+          },
+          {
+               "word": "flavors",
+               "hint": "The different tastes of food or drink"
+          },
+          {
+               "word": "flights",
+               "hint": "Journeys made by airplane"
+          },
+          {
+               "word": "folding",
+               "hint": "Bending something over on itself"
+          },
+          {
+               "word": "footage",
+               "hint": "Recorded video material"
+          },
+          {
+               "word": "forgive",
+               "hint": "To stop being angry at someone"
+          },
+          {
+               "word": "formula",
+               "hint": "A rule or method expressed in symbols"
+          },
+          {
+               "word": "fortune",
+               "hint": "A large amount of money or luck"
+          },
+          {
+               "word": "founded",
+               "hint": "Established or set up for the first time"
+          },
+          {
+               "word": "fragile",
+               "hint": "Easily broken or damaged"
+          },
+          {
+               "word": "framing",
+               "hint": "Putting a border around something"
+          },
+          {
+               "word": "freezer",
+               "hint": "An appliance that keeps food frozen"
+          },
+          {
+               "word": "friends",
+               "hint": "People you like and spend time with"
+          },
+          {
+               "word": "frosted",
+               "hint": "Covered with frost or sugar coating"
+          },
+          {
+               "word": "gallons",
+               "hint": "Units used for measuring liquid volume"
+          },
+          {
+               "word": "gardens",
+               "hint": "Areas of land where plants are grown"
+          },
+          {
+               "word": "garment",
+               "hint": "A piece of clothing"
+          },
+          {
+               "word": "gasping",
+               "hint": "Taking sharp breaths in shock or effort"
+          },
+          {
+               "word": "genuine",
+               "hint": "Truly what it appears to be"
+          },
+          {
+               "word": "gesture",
+               "hint": "A movement of the body to express something"
+          },
+          {
+               "word": "getting",
+               "hint": "Receiving or obtaining something"
+          },
+          {
+               "word": "gifted",
+               "hint": "Having a natural talent"
+          },
+          {
+               "word": "glowing",
+               "hint": "Giving off a steady light"
+          },
+          {
+               "word": "glowing",
+               "hint": "Emitting a soft steady light"
+          },
+          {
+               "word": "granite",
+               "hint": "A very hard type of rock used in building"
+          },
+          {
+               "word": "grasped",
+               "hint": "Grabbed or understood something"
+          },
+          {
+               "word": "grounds",
+               "hint": "Reasons for doing something or land around a building"
+          },
+          {
+               "word": "growing",
+               "hint": "Increasing in size or amount"
+          },
+          {
+               "word": "handful",
+               "hint": "The amount that can be held in one hand"
+          },
+          {
+               "word": "hanging",
+               "hint": "Suspended from above"
+          },
+          {
+               "word": "happily",
+               "hint": "In a happy manner"
+          },
+          {
+               "word": "harvest",
+               "hint": "The process of gathering crops"
+          },
+          {
+               "word": "headers",
+               "hint": "Titles at the top of a section"
+          },
+          {
+               "word": "healing",
+               "hint": "The process of becoming healthy again"
+          },
+          {
+               "word": "helpful",
+               "hint": "Making something easier or better"
+          },
+          {
+               "word": "heroine",
+               "hint": "A female hero in a story"
+          },
+          {
+               "word": "highest",
+               "hint": "At the greatest elevation or level"
+          },
+          {
+               "word": "highway",
+               "hint": "A main road connecting cities"
+          },
+          {
+               "word": "honesty",
+               "hint": "The quality of being truthful"
+          },
+          {
+               "word": "horizon",
+               "hint": "The line where the sky meets the earth"
+          },
+          {
+               "word": "hosting",
+               "hint": "Providing space or organizing an event"
+          },
+          {
+               "word": "hunting",
+               "hint": "Chasing animals for food or sport"
+          },
+          {
+               "word": "inspire",
+               "hint": "To fill someone with the urge to do something"
+          },
+          {
+               "word": "instead",
+               "hint": "As an alternative to something else"
+          },
+          {
+               "word": "invited",
+               "hint": "Asked to come to an event"
+          },
+          {
+               "word": "jogging",
+               "hint": "Running at a gentle pace"
+          },
+          {
+               "word": "joining",
+               "hint": "Connecting things or becoming part of a group"
+          },
+          {
+               "word": "jumping",
+               "hint": "Pushing yourself up into the air"
+          },
+          {
+               "word": "keeping",
+               "hint": "Continuing to have or maintain something"
+          },
+          {
+               "word": "kindred",
+               "hint": "Having similar qualities or feelings"
+          },
+          {
+               "word": "knowing",
+               "hint": "Having knowledge or awareness of something"
+          },
+          {
+               "word": "largest",
+               "hint": "Of the greatest size"
+          },
+          {
+               "word": "lasting",
+               "hint": "Continuing for a long time"
+          },
+          {
+               "word": "laundry",
+               "hint": "Clothes that need to be washed"
+          },
+          {
+               "word": "leading",
+               "hint": "Being in first place or guiding others"
+          },
+          {
+               "word": "leather",
+               "hint": "Material made from animal skin"
+          },
+          {
+               "word": "leisure",
+               "hint": "Free time used for enjoyment"
+          },
+          {
+               "word": "lending",
+               "hint": "Giving something temporarily"
+          },
+          {
+               "word": "lessons",
+               "hint": "Periods of learning or teaching"
+          },
+          {
+               "word": "liberty",
+               "hint": "The freedom to live as you choose"
+          },
+          {
+               "word": "lifting",
+               "hint": "Raising something to a higher position"
+          },
+          {
+               "word": "limited",
+               "hint": "Restricted in size amount or extent"
+          },
+          {
+               "word": "located",
+               "hint": "Situated in a particular place"
+          },
+          {
+               "word": "magical",
+               "hint": "Having supernatural qualities"
+          },
+          {
+               "word": "managed",
+               "hint": "Successfully handled or controlled"
+          },
+          {
+               "word": "mapping",
+               "hint": "Creating a map or plan of something"
+          },
+          {
+               "word": "margins",
+               "hint": "The edges or borders of something"
+          },
+          {
+               "word": "markets",
+               "hint": "Places where goods are bought and sold"
+          },
+          {
+               "word": "married",
+               "hint": "Having a spouse"
+          },
+          {
+               "word": "massive",
+               "hint": "Very large in size or amount"
+          },
+          {
+               "word": "meaning",
+               "hint": "What something is intended to express"
+          },
+          {
+               "word": "methods",
+               "hint": "Ways of doing something"
+          },
+          {
+               "word": "mileage",
+               "hint": "The distance traveled measured in miles"
+          },
+          {
+               "word": "minimal",
+               "hint": "Of a minimum amount or degree"
+          },
+          {
+               "word": "miracle",
+               "hint": "An extraordinary event believed to be divine"
+          },
+          {
+               "word": "missing",
+               "hint": "Not present when expected"
+          },
+          {
+               "word": "mistake",
+               "hint": "Something done incorrectly"
+          },
+          {
+               "word": "monthly",
+               "hint": "Happening once every month"
+          },
+          {
+               "word": "musical",
+               "hint": "Relating to music"
+          },
+          {
+               "word": "natural",
+               "hint": "Existing in nature not made by people"
+          },
+          {
+               "word": "nervous",
+               "hint": "Feeling anxious or worried"
+          },
+          {
+               "word": "noticed",
+               "hint": "Became aware of something"
+          },
+          {
+               "word": "numbers",
+               "hint": "Mathematical symbols used for counting"
+          }
+     ],
+     "impossible": [
+          {
+               "word": "absolute",
+               "hint": "Complete and total with no exceptions"
+          },
+          {
+               "word": "abstract",
+               "hint": "Existing as an idea rather than a physical thing"
+          },
+          {
+               "word": "accident",
+               "hint": "An unexpected event that causes damage or injury"
+          },
+          {
+               "word": "accuracy",
+               "hint": "The quality of being correct and precise"
+          },
+          {
+               "word": "advanced",
+               "hint": "At a higher level of development"
+          },
+          {
+               "word": "advocate",
+               "hint": "To publicly support a cause or person"
+          },
+          {
+               "word": "alphabet",
+               "hint": "A set of letters used in a language"
+          },
+          {
+               "word": "ambition",
+               "hint": "A strong desire to achieve something"
+          },
+          {
+               "word": "analysis",
+               "hint": "A detailed examination of something"
+          },
+          {
+               "word": "announce",
+               "hint": "To make something known publicly"
+          },
+          {
+               "word": "appetite",
+               "hint": "A desire for food or something else"
+          },
+          {
+               "word": "approach",
+               "hint": "A way of dealing with something"
+          },
+          {
+               "word": "argument",
+               "hint": "A disagreement between people"
+          },
+          {
+               "word": "attitude",
+               "hint": "A way of thinking or feeling about something"
+          },
+          {
+               "word": "audience",
+               "hint": "A group of people watching or listening"
+          },
+          {
+               "word": "balanced",
+               "hint": "Having equal amounts of different things"
+          },
+          {
+               "word": "barriers",
+               "hint": "Things that prevent movement or progress"
+          },
+          {
+               "word": "baseball",
+               "hint": "A sport played with a bat and ball"
+          },
+          {
+               "word": "basement",
+               "hint": "The lowest level of a building underground"
+          },
+          {
+               "word": "bathroom",
+               "hint": "A room with a bath or shower and toilet"
+          },
+          {
+               "word": "birthday",
+               "hint": "The anniversary of the day you were born"
+          },
+          {
+               "word": "blocking",
+               "hint": "Stopping something from passing through"
+          },
+          {
+               "word": "breaking",
+               "hint": "Causing something to separate into pieces"
+          },
+          {
+               "word": "building",
+               "hint": "A structure with walls and a roof"
+          },
+          {
+               "word": "business",
+               "hint": "A company or commercial activity"
+          },
+          {
+               "word": "calendar",
+               "hint": "A chart showing days months and years"
+          },
+          {
+               "word": "campaign",
+               "hint": "An organized effort to achieve a goal"
+          },
+          {
+               "word": "capacity",
+               "hint": "The maximum amount something can hold"
+          },
+          {
+               "word": "champion",
+               "hint": "The winner of a competition"
+          },
+          {
+               "word": "chemical",
+               "hint": "A substance used in or produced by chemistry"
+          },
+          {
+               "word": "children",
+               "hint": "Young people who are not yet adults"
+          },
+          {
+               "word": "climbing",
+               "hint": "Going up something using hands and feet"
+          },
+          {
+               "word": "clothing",
+               "hint": "Items worn to cover the body"
+          },
+          {
+               "word": "complete",
+               "hint": "Having all parts with nothing missing"
+          },
+          {
+               "word": "computer",
+               "hint": "An electronic device for processing information"
+          },
+          {
+               "word": "consider",
+               "hint": "To think carefully about something"
+          },
+          {
+               "word": "consumer",
+               "hint": "A person who buys goods and services"
+          },
+          {
+               "word": "continue",
+               "hint": "To keep doing something without stopping"
+          },
+          {
+               "word": "contract",
+               "hint": "A legal agreement between two parties"
+          },
+          {
+               "word": "contrast",
+               "hint": "A noticeable difference between two things"
+          },
+          {
+               "word": "convince",
+               "hint": "To make someone believe something is true"
+          },
+          {
+               "word": "creative",
+               "hint": "Having the ability to make new things"
+          },
+          {
+               "word": "criminal",
+               "hint": "A person who has committed a crime"
+          },
+          {
+               "word": "cultural",
+               "hint": "Relating to the ideas and customs of a group"
+          },
+          {
+               "word": "customer",
+               "hint": "A person who buys from a shop or business"
+          },
+          {
+               "word": "database",
+               "hint": "An organized collection of digital information"
+          },
+          {
+               "word": "daughter",
+               "hint": "A female child of a parent"
+          },
+          {
+               "word": "deadline",
+               "hint": "The latest time something must be done by"
+          },
+          {
+               "word": "decision",
+               "hint": "A choice made after thinking about options"
+          },
+          {
+               "word": "decrease",
+               "hint": "To become smaller or fewer"
+          },
+          {
+               "word": "definite",
+               "hint": "Clearly true or certain"
+          },
+          {
+               "word": "delivery",
+               "hint": "The act of bringing something to someone"
+          },
+          {
+               "word": "describe",
+               "hint": "To say what something is like"
+          },
+          {
+               "word": "designed",
+               "hint": "Created with a specific purpose in mind"
+          },
+          {
+               "word": "detailed",
+               "hint": "Including many specific facts or features"
+          },
+          {
+               "word": "discover",
+               "hint": "To find something for the first time"
+          },
+          {
+               "word": "distance",
+               "hint": "The amount of space between two points"
+          },
+          {
+               "word": "distinct",
+               "hint": "Clearly different or separate"
+          },
+          {
+               "word": "district",
+               "hint": "A particular area of a city or country"
+          },
+          {
+               "word": "document",
+               "hint": "A written or printed official paper"
+          },
+          {
+               "word": "dominant",
+               "hint": "Most powerful or important"
+          },
+          {
+               "word": "duration",
+               "hint": "The length of time something lasts"
+          },
+          {
+               "word": "educated",
+               "hint": "Having received schooling and knowledge"
+          },
+          {
+               "word": "election",
+               "hint": "A vote to choose a leader or representative"
+          },
+          {
+               "word": "emphasis",
+               "hint": "Special importance given to something"
+          },
+          {
+               "word": "employee",
+               "hint": "A person who works for someone else"
+          },
+          {
+               "word": "envelope",
+               "hint": "A paper cover used to send letters"
+          },
+          {
+               "word": "equality",
+               "hint": "The state of being treated the same"
+          },
+          {
+               "word": "evaluate",
+               "hint": "To judge or assess the value of something"
+          },
+          {
+               "word": "everyday",
+               "hint": "Happening or used on a daily basis"
+          },
+          {
+               "word": "evidence",
+               "hint": "Information that proves something is true"
+          },
+          {
+               "word": "exchange",
+               "hint": "To give something and receive something in return"
+          },
+          {
+               "word": "exercise",
+               "hint": "Physical activity done to stay healthy"
+          },
+          {
+               "word": "extended",
+               "hint": "Made longer or larger than usual"
+          },
+          {
+               "word": "feedback",
+               "hint": "Information about how well something was done"
+          },
+          {
+               "word": "festival",
+               "hint": "A special event with celebration and activities"
+          },
+          {
+               "word": "flexible",
+               "hint": "Able to bend or change easily"
+          },
+          {
+               "word": "football",
+               "hint": "A popular sport played with a round or oval ball"
+          },
+          {
+               "word": "forecast",
+               "hint": "A prediction of what will happen"
+          },
+          {
+               "word": "frequent",
+               "hint": "Happening many times or often"
+          },
+          {
+               "word": "function",
+               "hint": "The purpose or role of something"
+          },
+          {
+               "word": "generate",
+               "hint": "To produce or create something"
+          },
+          {
+               "word": "graduate",
+               "hint": "To complete a course of education"
+          },
+          {
+               "word": "grateful",
+               "hint": "Feeling thankful for something received"
+          },
+          {
+               "word": "guidance",
+               "hint": "Advice or direction about how to do something"
+          },
+          {
+               "word": "humanity",
+               "hint": "All human beings as a group"
+          },
+          {
+               "word": "hydrogen",
+               "hint": "The lightest chemical element"
+          },
+          {
+               "word": "identify",
+               "hint": "To recognize and name something"
+          },
+          {
+               "word": "illusion",
+               "hint": "Something that appears to be real but is not"
+          },
+          {
+               "word": "increase",
+               "hint": "To become larger or more in number"
+          },
+          {
+               "word": "industry",
+               "hint": "The production of goods on a large scale"
+          },
+          {
+               "word": "inspired",
+               "hint": "Feeling motivated to do something creative"
+          },
+          {
+               "word": "internet",
+               "hint": "A global network connecting millions of computers"
+          },
+          {
+               "word": "inventor",
+               "hint": "A person who creates new things"
+          },
+          {
+               "word": "isolated",
+               "hint": "Separated from others"
+          },
+          {
+               "word": "judgment",
+               "hint": "The ability to make considered decisions"
+          },
+          {
+               "word": "language",
+               "hint": "A system of communication used by people"
+          },
+          {
+               "word": "laughter",
+               "hint": "The sound made when something is funny"
+          },
+          {
+               "word": "learning",
+               "hint": "The process of gaining knowledge or skills"
+          },
+          {
+               "word": "lifetime",
+               "hint": "The length of time a person is alive"
+          },
+          {
+               "word": "location",
+               "hint": "A particular place or position"
+          },
+          {
+               "word": "magazine",
+               "hint": "A periodical publication with articles"
+          },
+          {
+               "word": "maintain",
+               "hint": "To keep something in good condition"
+          },
+          {
+               "word": "majority",
+               "hint": "More than half of a total group"
+          },
+          {
+               "word": "marriage",
+               "hint": "The legal union of two people as partners"
+          },
+          {
+               "word": "material",
+               "hint": "The substance from which something is made"
+          },
+          {
+               "word": "maximize",
+               "hint": "To make as large or great as possible"
+          },
+          {
+               "word": "medicine",
+               "hint": "A substance used to treat illness"
+          },
+          {
+               "word": "midnight",
+               "hint": "Twelve o clock at night"
+          },
+          {
+               "word": "military",
+               "hint": "Relating to armed forces and soldiers"
+          },
+          {
+               "word": "minimize",
+               "hint": "To make as small as possible"
+          },
+          {
+               "word": "momentum",
+               "hint": "The force gained by a moving object"
+          },
+          {
+               "word": "mortgage",
+               "hint": "A loan used to buy a house"
+          },
+          {
+               "word": "movement",
+               "hint": "A change in position or a group working for change"
+          },
+          {
+               "word": "national",
+               "hint": "Relating to an entire country"
+          },
+          {
+               "word": "negative",
+               "hint": "Not positive or harmful in effect"
+          },
+          {
+               "word": "notebook",
+               "hint": "A small book for writing notes"
+          },
+          {
+               "word": "occasion",
+               "hint": "A special event or time"
+          },
+          {
+               "word": "overcome",
+               "hint": "To succeed in dealing with a problem"
+          },
+          {
+               "word": "paradise",
+               "hint": "A place of perfect happiness"
+          },
+          {
+               "word": "patience",
+               "hint": "The ability to wait calmly"
+          },
+          {
+               "word": "peaceful",
+               "hint": "Free from disturbance and conflict"
+          },
+          {
+               "word": "personal",
+               "hint": "Relating to a specific person privately"
+          },
+          {
+               "word": "physical",
+               "hint": "Relating to the body rather than the mind"
+          },
+          {
+               "word": "platform",
+               "hint": "A raised surface or a digital service"
+          },
+          {
+               "word": "pleasant",
+               "hint": "Giving a sense of happy satisfaction"
+          },
+          {
+               "word": "possible",
+               "hint": "Able to be done or achieved"
+          },
+          {
+               "word": "powerful",
+               "hint": "Having great strength or influence"
+          },
+          {
+               "word": "practice",
+               "hint": "Repeating something to improve your skill"
+          },
+          {
+               "word": "prepared",
+               "hint": "Made ready in advance"
+          },
+          {
+               "word": "pressure",
+               "hint": "A force pushing against something"
+          },
+          {
+               "word": "previous",
+               "hint": "Coming before in time or order"
+          },
+          {
+               "word": "priority",
+               "hint": "Something more important than other things"
+          },
+          {
+               "word": "progress",
+               "hint": "Moving forward toward a goal"
+          },
+          {
+               "word": "proposal",
+               "hint": "A plan or suggestion put forward for others"
+          },
+          {
+               "word": "province",
+               "hint": "A region or division of a country"
+          },
+          {
+               "word": "purchase",
+               "hint": "To buy something"
+          },
+          {
+               "word": "question",
+               "hint": "A sentence asking for information"
+          },
+          {
+               "word": "reaction",
+               "hint": "A response to something that happens"
+          },
+          {
+               "word": "recently",
+               "hint": "Not long ago in the past"
+          },
+          {
+               "word": "recovery",
+               "hint": "The process of getting better after illness"
+          },
+          {
+               "word": "register",
+               "hint": "To officially record your name or details"
+          },
+          {
+               "word": "relative",
+               "hint": "A family member"
+          },
+          {
+               "word": "relevant",
+               "hint": "Closely connected to the subject at hand"
+          },
+          {
+               "word": "reliable",
+               "hint": "Consistently good and able to be trusted"
+          },
+          {
+               "word": "remember",
+               "hint": "To bring something back into your mind"
+          },
+          {
+               "word": "research",
+               "hint": "Careful study to find new information"
+          },
+          {
+               "word": "resource",
+               "hint": "A supply of something useful"
+          },
+          {
+               "word": "response",
+               "hint": "A reaction or answer to something"
+          },
+          {
+               "word": "revision",
+               "hint": "Changing or reviewing something again"
+          },
+          {
+               "word": "schedule",
+               "hint": "A plan of activities and their times"
+          },
+          {
+               "word": "security",
+               "hint": "The state of being safe from danger"
+          },
+          {
+               "word": "sentence",
+               "hint": "A group of words expressing a complete thought"
+          },
+          {
+               "word": "shortage",
+               "hint": "Not having enough of something"
+          },
+          {
+               "word": "skeleton",
+               "hint": "The framework of bones in a body"
+          },
+          {
+               "word": "software",
+               "hint": "Programs and apps used on a computer"
+          },
+          {
+               "word": "solution",
+               "hint": "A way of solving a problem"
+          },
+          {
+               "word": "standard",
+               "hint": "A level of quality used as a benchmark"
+          },
+          {
+               "word": "strength",
+               "hint": "The quality of being physically or mentally strong"
+          },
+          {
+               "word": "struggle",
+               "hint": "To try hard to do something difficult"
+          },
+          {
+               "word": "supplies",
+               "hint": "Items needed for a particular purpose"
+          },
+          {
+               "word": "surprise",
+               "hint": "An unexpected event or piece of news"
+          },
+          {
+               "word": "survival",
+               "hint": "The act of continuing to live despite difficulty"
+          },
+          {
+               "word": "sympathy",
+               "hint": "Feeling sorry for someone else's situation"
+          },
+          {
+               "word": "together",
+               "hint": "With each other in the same place"
+          },
+          {
+               "word": "tomorrow",
+               "hint": "The day after today"
+          },
+          {
+               "word": "training",
+               "hint": "Teaching a skill through practice"
+          },
+          {
+               "word": "transfer",
+               "hint": "To move something from one place to another"
+          },
+          {
+               "word": "treasure",
+               "hint": "A collection of valuable things"
+          },
+          {
+               "word": "ultimate",
+               "hint": "Being the best or most extreme example"
+          },
+          {
+               "word": "umbrella",
+               "hint": "A device used to keep dry in the rain"
+          },
+          {
+               "word": "universe",
+               "hint": "All of space and everything in it"
+          },
+          {
+               "word": "vacation",
+               "hint": "A period of time off work for rest and travel"
+          },
+          {
+               "word": "valuable",
+               "hint": "Worth a lot of money or importance"
+          },
+          {
+               "word": "violence",
+               "hint": "Behavior that causes physical harm"
+          },
+          {
+               "word": "whatever",
+               "hint": "Used to refer to anything or everything"
+          },
+          {
+               "word": "whenever",
+               "hint": "At any time or every time that"
+          },
+          {
+               "word": "wildfire",
+               "hint": "A large uncontrolled fire in nature"
+          },
+          {
+               "word": "wireless",
+               "hint": "Connecting without physical cables"
+          },
+          {
+               "word": "withdraw",
+               "hint": "To take back or remove something"
+          },
+          {
+               "word": "wonderful",
+               "hint": "Inspiring great admiration or delight"
+          },
+          {
+               "word": "workshop",
+               "hint": "A room or session for practical work"
+          },
+          {
+               "word": "yourself",
+               "hint": "Used to refer to the person being spoken to"
+          },
+          {
+               "word": "absolute",
+               "hint": "Complete and total with no exceptions"
+          },
+          {
+               "word": "accident",
+               "hint": "An unexpected event causing harm"
+          },
+          {
+               "word": "acoustic",
+               "hint": "Relating to sound or hearing"
+          },
+          {
+               "word": "activate",
+               "hint": "To make something start working"
+          },
+          {
+               "word": "actively",
+               "hint": "In a way that involves action"
+          },
+          {
+               "word": "addition",
+               "hint": "The process of adding numbers together"
+          },
+          {
+               "word": "adequate",
+               "hint": "Enough for a particular purpose"
+          },
+          {
+               "word": "adjacent",
+               "hint": "Next to or adjoining something"
+          },
+          {
+               "word": "adoption",
+               "hint": "Taking someone else's child as your own"
+          },
+          {
+               "word": "adulting",
+               "hint": "Behaving in a responsible grown up way"
+          },
+          {
+               "word": "affected",
+               "hint": "Having been changed by something"
+          },
+          {
+               "word": "altitude",
+               "hint": "Height above sea level"
+          },
+          {
+               "word": "although",
+               "hint": "In spite of the fact that"
+          },
+          {
+               "word": "annually",
+               "hint": "Once every year"
+          },
+          {
+               "word": "anywhere",
+               "hint": "In or to any place"
+          },
+          {
+               "word": "arranged",
+               "hint": "Put in a particular order"
+          },
+          {
+               "word": "arrested",
+               "hint": "Taken into police custody"
+          },
+          {
+               "word": "attached",
+               "hint": "Joined or connected to something"
+          },
+          {
+               "word": "bankrupt",
+               "hint": "Unable to pay your debts"
+          },
+          {
+               "word": "boutique",
+               "hint": "A small fashionable shop"
+          },
+          {
+               "word": "brothers",
+               "hint": "Male siblings"
+          },
+          {
+               "word": "catching",
+               "hint": "Grabbing something that is moving"
+          },
+          {
+               "word": "changing",
+               "hint": "Becoming different over time"
+          },
+          {
+               "word": "charging",
+               "hint": "Restoring power to a battery"
+          },
+          {
+               "word": "choosing",
+               "hint": "Selecting from a number of options"
+          },
+          {
+               "word": "commence",
+               "hint": "To begin or start something formal"
+          },
+          {
+               "word": "commence",
+               "hint": "To officially begin something"
+          },
+          {
+               "word": "commerce",
+               "hint": "The buying and selling of goods"
+          },
+          {
+               "word": "conceive",
+               "hint": "To form an idea in your mind"
+          },
+          {
+               "word": "conclude",
+               "hint": "To bring something to an end"
+          },
+          {
+               "word": "conquest",
+               "hint": "The act of taking control by force"
+          },
+          {
+               "word": "corridor",
+               "hint": "A long narrow hallway in a building"
+          },
+          {
+               "word": "creating",
+               "hint": "Making something new"
+          },
+          {
+               "word": "criteria",
+               "hint": "Standards used for judging something"
+          },
+          {
+               "word": "database",
+               "hint": "A structured set of stored information"
+          },
+          {
+               "word": "diplomat",
+               "hint": "An official who represents their country abroad"
+          },
+          {
+               "word": "disaster",
+               "hint": "A sudden terrible event causing damage"
+          },
+          {
+               "word": "drawback",
+               "hint": "A disadvantage or problem"
+          },
+          {
+               "word": "earnings",
+               "hint": "Money received as wages or profit"
+          },
+          {
+               "word": "elevated",
+               "hint": "Raised to a higher level"
+          },
+          {
+               "word": "energize",
+               "hint": "To give energy or enthusiasm to someone"
+          },
+          {
+               "word": "existing",
+               "hint": "Currently present or in use"
+          },
+          {
+               "word": "explicit",
+               "hint": "Stated clearly and in detail"
+          },
+          {
+               "word": "exposure",
+               "hint": "Being in contact with something"
+          },
+          {
+               "word": "familiar",
+               "hint": "Well known from long experience"
+          },
+          {
+               "word": "finances",
+               "hint": "The management of money"
+          },
+          {
+               "word": "flagship",
+               "hint": "The best or most important product"
+          },
+          {
+               "word": "formally",
+               "hint": "In an official or ceremonial way"
+          },
+          {
+               "word": "fraction",
+               "hint": "A small part of something"
+          },
+          {
+               "word": "fragment",
+               "hint": "A small piece broken off from something"
+          },
+          {
+               "word": "frontier",
+               "hint": "The border between two countries or unexplored land"
+          },
+          {
+               "word": "gasoline",
+               "hint": "Fuel used to power cars"
+          },
+          {
+               "word": "gigantic",
+               "hint": "Extremely large in size"
+          },
+          {
+               "word": "graceful",
+               "hint": "Moving in a smooth and elegant way"
+          },
+          {
+               "word": "grateful",
+               "hint": "Deeply thankful for something"
+          },
+          {
+               "word": "guardian",
+               "hint": "A person who protects or looks after someone"
+          },
+          {
+               "word": "hallmark",
+               "hint": "A feature that is typical of something"
+          },
+          {
+               "word": "handsome",
+               "hint": "Good looking in an attractive way"
+          },
+          {
+               "word": "hardware",
+               "hint": "Physical computer equipment"
+          },
+          {
+               "word": "headline",
+               "hint": "The title of a news story"
+          },
+          {
+               "word": "heritage",
+               "hint": "Traditions passed down through generations"
+          },
+          {
+               "word": "highland",
+               "hint": "An area of high ground or hills"
+          },
+          {
+               "word": "homeless",
+               "hint": "Without a permanent place to live"
+          },
+          {
+               "word": "horrible",
+               "hint": "Causing horror or disgust"
+          },
+          {
+               "word": "hospital",
+               "hint": "A place where sick people are treated"
+          },
+          {
+               "word": "humorous",
+               "hint": "Causing laughter and amusement"
+          },
+          {
+               "word": "hurricane",
+               "hint": "A very powerful tropical storm"
+          },
+          {
+               "word": "imagined",
+               "hint": "Formed a mental picture of something"
+          },
+          {
+               "word": "immature",
+               "hint": "Not fully developed or grown up"
+          },
+          {
+               "word": "immortal",
+               "hint": "Living or lasting forever"
+          },
+          {
+               "word": "immunity",
+               "hint": "Protection against disease"
+          },
+          {
+               "word": "improved",
+               "hint": "Made better than before"
+          },
+          {
+               "word": "incident",
+               "hint": "An event especially an unpleasant one"
+          },
+          {
+               "word": "includes",
+               "hint": "Contains as part of a whole"
+          },
+          {
+               "word": "indicate",
+               "hint": "To point out or show something"
+          },
+          {
+               "word": "inferior",
+               "hint": "Lower in quality or status"
+          },
+          {
+               "word": "infinite",
+               "hint": "Having no limits or end"
+          },
+          {
+               "word": "informal",
+               "hint": "Relaxed and not following strict rules"
+          },
+          {
+               "word": "initiate",
+               "hint": "To cause a process to begin"
+          },
+          {
+               "word": "innocent",
+               "hint": "Not guilty of a crime"
+          },
+          {
+               "word": "instance",
+               "hint": "A particular case or example"
+          },
+          {
+               "word": "interact",
+               "hint": "To communicate and react with others"
+          },
+          {
+               "word": "interior",
+               "hint": "The inner part of something"
+          },
+          {
+               "word": "involved",
+               "hint": "Taking part in something"
+          },
+          {
+               "word": "landmark",
+               "hint": "A recognizable feature of a landscape"
+          },
+          {
+               "word": "leisurely",
+               "hint": "Relaxed and unhurried"
+          },
+          {
+               "word": "licensed",
+               "hint": "Having official permission to do something"
+          },
+          {
+               "word": "likewise",
+               "hint": "In the same way"
+          },
+          {
+               "word": "listener",
+               "hint": "Someone who pays attention to sounds or words"
+          },
+          {
+               "word": "literacy",
+               "hint": "The ability to read and write"
+          },
+          {
+               "word": "lonesome",
+               "hint": "Feeling sad from being alone"
+          },
+          {
+               "word": "magnetic",
+               "hint": "Having the properties of a magnet"
+          },
+          {
+               "word": "marathon",
+               "hint": "A long distance running race"
+          },
+          {
+               "word": "measurable",
+               "hint": "Able to be measured"
+          },
+          {
+               "word": "mechanic",
+               "hint": "A person who repairs machines"
+          },
+          {
+               "word": "medieval",
+               "hint": "Relating to the Middle Ages"
+          },
+          {
+               "word": "memories",
+               "hint": "Things remembered from the past"
+          },
+          {
+               "word": "mischief",
+               "hint": "Playful bad behavior"
+          },
+          {
+               "word": "moderate",
+               "hint": "Average in amount or degree"
+          },
+          {
+               "word": "molecule",
+               "hint": "The smallest unit of a chemical compound"
+          },
+          {
+               "word": "motivate",
+               "hint": "To provide someone with a reason to do something"
+          },
+          {
+               "word": "mountain",
+               "hint": "A very high natural land formation"
+          },
+          {
+               "word": "navigate",
+               "hint": "To find your way around"
+          },
+          {
+               "word": "negative",
+               "hint": "Expressing denial or opposition"
+          },
+          {
+               "word": "nighttime",
+               "hint": "The period of darkness between sunset and sunrise"
+          },
+          {
+               "word": "nominee",
+               "hint": "A person put forward for an award or position"
+          },
+          {
+               "word": "obstacle",
+               "hint": "Something that blocks your way"
+          },
+          {
+               "word": "occupied",
+               "hint": "Being used or lived in"
+          },
+          {
+               "word": "offended",
+               "hint": "Feeling upset by something rude"
+          },
+          {
+               "word": "official",
+               "hint": "Relating to an authority or formal position"
+          },
+          {
+               "word": "operator",
+               "hint": "A person who works a machine or service"
+          },
+          {
+               "word": "opposite",
+               "hint": "Completely different or on the other side"
+          },
+          {
+               "word": "ordinary",
+               "hint": "With no special features"
+          },
+          {
+               "word": "organize",
+               "hint": "To arrange things in a systematic way"
+          },
+          {
+               "word": "original",
+               "hint": "Present from the beginning or new"
+          },
+          {
+               "word": "outbreak",
+               "hint": "A sudden start of something like a disease"
+          },
+          {
+               "word": "overcome",
+               "hint": "To succeed despite difficulties"
+          },
+          {
+               "word": "overload",
+               "hint": "To put too much of something somewhere"
+          },
+          {
+               "word": "overview",
+               "hint": "A general summary of something"
+          },
+          {
+               "word": "painting",
+               "hint": "A picture made with paint"
+          },
+          {
+               "word": "pandemic",
+               "hint": "A disease spreading across a whole country or world"
+          },
+          {
+               "word": "paradise",
+               "hint": "A place of perfect happiness and beauty"
+          },
+          {
+               "word": "passport",
+               "hint": "A document allowing international travel"
+          },
+          {
+               "word": "pathways",
+               "hint": "Routes or courses along which something travels"
+          },
+          {
+               "word": "perceive",
+               "hint": "To become aware of something through the senses"
+          },
+          {
+               "word": "perfume",
+               "hint": "A pleasant smelling liquid worn on the body"
+          },
+          {
+               "word": "pharmacy",
+               "hint": "A shop where medicines are dispensed"
+          },
+          {
+               "word": "pipeline",
+               "hint": "A long pipe for carrying liquid or gas"
+          },
+          {
+               "word": "playful",
+               "hint": "Fond of games and amusement"
+          },
+          {
+               "word": "plentiful",
+               "hint": "Existing in large amounts"
+          },
+          {
+               "word": "portable",
+               "hint": "Able to be easily carried"
+          },
+          {
+               "word": "positive",
+               "hint": "Full of hope and confidence"
+          },
+          {
+               "word": "precious",
+               "hint": "Of great value and importance"
+          },
+          {
+               "word": "preserve",
+               "hint": "To keep something in its original state"
+          },
+          {
+               "word": "princess",
+               "hint": "The daughter of a king or queen"
+          },
+          {
+               "word": "printing",
+               "hint": "Producing text or images on paper"
+          },
+          {
+               "word": "probable",
+               "hint": "Likely to happen or be true"
+          },
+          {
+               "word": "prograde",
+               "hint": "Moving in the same direction as orbit"
+          },
+          {
+               "word": "property",
+               "hint": "Something owned by someone"
+          },
+          {
+               "word": "prospect",
+               "hint": "The possibility that something will happen"
+          },
+          {
+               "word": "publicly",
+               "hint": "In a way that is open to everyone"
+          },
+          {
+               "word": "punctual",
+               "hint": "Doing things at the right time"
+          },
+          {
+               "word": "rainfall",
+               "hint": "The amount of rain that falls"
+          },
+          {
+               "word": "realized",
+               "hint": "Became aware of something"
+          },
+          {
+               "word": "recently",
+               "hint": "Not long ago"
+          },
+          {
+               "word": "referred",
+               "hint": "Mentioned or directed to someone"
+          },
+          {
+               "word": "regional",
+               "hint": "Relating to a particular area"
+          },
+          {
+               "word": "reliable",
+               "hint": "Worthy of being trusted"
+          },
+          {
+               "word": "remained",
+               "hint": "Stayed in the same place or condition"
+          },
+          {
+               "word": "republic",
+               "hint": "A country governed by elected representatives"
+          },
+          {
+               "word": "reserved",
+               "hint": "Kept for a particular person or purpose"
+          },
+          {
+               "word": "resident",
+               "hint": "A person who lives in a place"
+          },
+          {
+               "word": "restrict",
+               "hint": "To put a limit on something"
+          },
+          {
+               "word": "revealed",
+               "hint": "Made known or shown"
+          },
+          {
+               "word": "reversed",
+               "hint": "Changed to the opposite direction"
+          },
+          {
+               "word": "rewarded",
+               "hint": "Given something in return for effort"
+          },
+          {
+               "word": "riverbed",
+               "hint": "The bottom of a river"
+          },
+          {
+               "word": "romantic",
+               "hint": "Relating to love and strong emotion"
+          },
+          {
+               "word": "rooftop",
+               "hint": "The outer surface of a roof"
+          },
+          {
+               "word": "rotation",
+               "hint": "The action of rotating around an axis"
+          },
+          {
+               "word": "routinely",
+               "hint": "As part of a regular procedure"
+          },
+          {
+               "word": "sailboat",
+               "hint": "A boat propelled by sails"
+          },
+          {
+               "word": "sandwich",
+               "hint": "Food between two slices of bread"
+          },
+          {
+               "word": "saturday",
+               "hint": "The seventh day of the week"
+          },
+          {
+               "word": "scissors",
+               "hint": "A cutting tool with two blades"
+          },
+          {
+               "word": "scotland",
+               "hint": "A country that is part of the United Kingdom"
+          },
+          {
+               "word": "selected",
+               "hint": "Carefully chosen from a group"
+          },
+          {
+               "word": "sensible",
+               "hint": "Having good judgment"
+          },
+          {
+               "word": "sequence",
+               "hint": "A particular order in which things follow each other"
+          },
+          {
+               "word": "sidewalk",
+               "hint": "A paved path for pedestrians"
+          },
+          {
+               "word": "silently",
+               "hint": "Without making any sound"
+          },
+          {
+               "word": "singular",
+               "hint": "Exceptionally good or remarkable"
+          },
+          {
+               "word": "situated",
+               "hint": "Located in a particular place"
+          },
+          {
+               "word": "sleeping",
+               "hint": "Being in a state of rest and unconsciousness"
+          },
+          {
+               "word": "slightly",
+               "hint": "To a small degree"
+          },
+          {
+               "word": "slippery",
+               "hint": "Difficult to hold or stand on"
+          },
+          {
+               "word": "smelling",
+               "hint": "Perceiving odors through the nose"
+          },
+          {
+               "word": "snapshot",
+               "hint": "A quick photograph"
+          },
+          {
+               "word": "snowfall",
+               "hint": "The descent of snow from clouds"
+          },
+          {
+               "word": "somebody",
+               "hint": "An unknown or unspecified person"
+          },
+          {
+               "word": "somewhat",
+               "hint": "To a moderate extent"
+          },
+          {
+               "word": "speaking",
+               "hint": "Talking to someone"
+          },
+          {
+               "word": "specific",
+               "hint": "Clearly defined or identified"
+          },
+          {
+               "word": "spectrum",
+               "hint": "A range of different things"
+          },
+          {
+               "word": "spending",
+               "hint": "Using money to buy things"
+          },
+          {
+               "word": "spinning",
+               "hint": "Rotating rapidly around a central point"
+          },
+          {
+               "word": "splendid",
+               "hint": "Magnificent or very impressive"
+          },
+          {
+               "word": "sporting",
+               "hint": "Relating to sport or fair play"
+          },
+          {
+               "word": "stadiums",
+               "hint": "Large sports venues for spectators"
+          },
+          {
+               "word": "starting",
+               "hint": "Beginning to do something"
+          },
+          {
+               "word": "sticking",
+               "hint": "Attaching or remaining fixed to something"
+          },
+          {
+               "word": "storming",
+               "hint": "Moving rapidly and forcefully"
+          },
+          {
+               "word": "studying",
+               "hint": "Learning about a subject carefully"
+          },
+          {
+               "word": "stumbled",
+               "hint": "Tripped or moved unsteadily"
+          },
+          {
+               "word": "subtotal",
+               "hint": "A total that does not include everything"
+          },
+          {
+               "word": "suddenly",
+               "hint": "Quickly and unexpectedly"
+          },
+          {
+               "word": "sunlight",
+               "hint": "Light that comes from the sun"
+          },
+          {
+               "word": "superior",
+               "hint": "Better than others in quality"
+          },
+          {
+               "word": "supposed",
+               "hint": "Generally believed or assumed to be"
+          },
+          {
+               "word": "swapping",
+               "hint": "Exchanging one thing for another"
+          },
+          {
+               "word": "swimming",
+               "hint": "Moving through water by moving your body"
+          },
+          {
+               "word": "tailored",
+               "hint": "Made to fit a specific need"
+          },
+          {
+               "word": "teammate",
+               "hint": "A fellow member of a team"
+          },
+          {
+               "word": "thankful",
+               "hint": "Feeling pleased and relieved"
+          },
+          {
+               "word": "thinking",
+               "hint": "Using your mind to consider something"
+          },
+          {
+               "word": "thursday",
+               "hint": "The fifth day of the week"
+          },
+          {
+               "word": "timeline",
+               "hint": "A list of events in chronological order"
+          },
+          {
+               "word": "tolerant",
+               "hint": "Willing to accept different views"
+          },
+          {
+               "word": "touching",
+               "hint": "Making physical contact or emotionally moving"
+          },
+          {
+               "word": "tracking",
+               "hint": "Following the movements of something"
+          },
+          {
+               "word": "troubled",
+               "hint": "Feeling worried and upset"
+          },
+          {
+               "word": "trusting",
+               "hint": "Believing in the reliability of someone"
+          },
+          {
+               "word": "tutorial",
+               "hint": "A lesson or guide on how to do something"
+          },
+          {
+               "word": "unbroken",
+               "hint": "Not broken or interrupted"
+          },
+          {
+               "word": "upcoming",
+               "hint": "About to happen in the near future"
+          },
+          {
+               "word": "updating",
+               "hint": "Making something more current"
+          },
+          {
+               "word": "upgraded",
+               "hint": "Improved to a higher standard"
+          },
+          {
+               "word": "uplifted",
+               "hint": "Made to feel more cheerful"
+          },
+          {
+               "word": "urgently",
+               "hint": "Requiring immediate action"
+          },
+          {
+               "word": "vacation",
+               "hint": "A period away from work for rest"
+          },
+          {
+               "word": "velocity",
+               "hint": "The speed of something in a given direction"
+          },
+          {
+               "word": "vertical",
+               "hint": "Going straight up and down"
+          },
+          {
+               "word": "vibrant",
+               "hint": "Full of energy and enthusiasm"
+          },
+          {
+               "word": "villages",
+               "hint": "Small communities in rural areas"
+          },
+          {
+               "word": "visiting",
+               "hint": "Going to see a person or place"
+          },
+          {
+               "word": "watchful",
+               "hint": "Alert and careful"
+          },
+          {
+               "word": "weakness",
+               "hint": "A lack of strength or ability"
+          },
+          {
+               "word": "welcomed",
+               "hint": "Greeted warmly on arrival"
+          },
+          {
+               "word": "westward",
+               "hint": "Toward the west"
+          },
+          {
+               "word": "wildlife",
+               "hint": "Wild animals and plants"
+          },
+          {
+               "word": "windmill",
+               "hint": "A mill powered by the wind"
+          },
+          {
+               "word": "wonders",
+               "hint": "Amazing and remarkable things"
+          },
+          {
+               "word": "woodland",
+               "hint": "Land covered with trees"
+          },
+          {
+               "word": "workload",
+               "hint": "The amount of work to be done"
+          },
+          {
+               "word": "youngest",
+               "hint": "The least old of a group"
+          }
+     ]
+}
