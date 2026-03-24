@@ -1,16 +1,43 @@
-# React + Vite
+# 🔤 Wordscramble
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal project — a fun and challenging word unscramble game built with React and Vite.
 
-Currently, two official plugins are available:
+## 🎮 About the Game
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Wordscramble is a browser-based word puzzle game where you are given a set of shuffled letters and your goal is to rearrange them into the correct word before the timer runs out. The game features a warm and easy-on-the-eyes UI designed to be enjoyable for all ages.
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 4 difficulty levels — Easy, Medium, Hard and Impossible
+- Over 500 handpicked common English words
+- Countdown timer that varies by difficulty
+- 3 lives system — lose a life for wrong answers or timeouts
+- 💡 Hint button that reveals a short description of the word
+- 🔀 Shuffle button to rearrange the letters
+- Score system with bonus points for fast answers
+- Confetti celebration on the Game Over screen
+- Smooth animations powered by Framer Motion
+- Fully responsive on mobile and desktop
 
-## Expanding the ESLint configuration
+## 🛠️ Built With
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- [React](https://react.dev)
+- [Vite](https://vitejs.dev)
+- [Framer Motion](https://www.framer.com/motion)
+- [Canvas Confetti](https://www.npmjs.com/package/canvas-confetti)
+
+## 🚀 Live Demo
+
+[Play it here](https://word-scramble-delta.vercel.app/)
+
+## 📦 Run Locally
+```bash
+git clone https://github.com/icenacream/word-scramble.git
+cd word-scramble
+npm install
+npm run dev
+```
+
+## 👤 Author
+
+Made with ❤️ from fishport
