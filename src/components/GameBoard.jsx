@@ -118,7 +118,7 @@ export default function GameBoard({
                               key={tile.id}
                               tile={tile}
                               onClick={onSelectTile}
-                              small={tiles.length > 8}
+                              small={tiles.length > 6}
                          />
                     ))}
                </div>
