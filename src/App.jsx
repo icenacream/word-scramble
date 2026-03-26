@@ -43,6 +43,7 @@ export default function App() {
             onSubmit={game.submitAnswer}
             onReshuffle={game.reshuffle}
             onHint={game.fetchHint}
+            onExit={() => game.setPhase("start")}
           />
         )}
         {game.phase === "gameover" && (

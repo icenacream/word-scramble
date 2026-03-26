@@ -7,7 +7,7 @@ import { LEVEL_CONFIG } from "../data/words";
 export default function GameBoard({
      level, score, lives, wordCount, tiles, answer,
      timeLeft, status, source, hint,
-     onSelectTile, onRemoveLetter, onClear, onSubmit, onReshuffle, onHint,
+     onSelectTile, onRemoveLetter, onClear, onSubmit, onReshuffle, onHint, onExit
 }) {
      const cfg = LEVEL_CONFIG[level];
      const canSubmit = answer.length === tiles.length && status === "idle";
@@ -44,6 +44,9 @@ export default function GameBoard({
                          </span>
                     </div>
                </div>
+
+               {/* Exit button*/}
+               <button className="btn-exit" onClick={onExit}>← Exit</button>
 
                {/* Timer */}
                <TimerBar timeLeft={timeLeft} level={level} />
